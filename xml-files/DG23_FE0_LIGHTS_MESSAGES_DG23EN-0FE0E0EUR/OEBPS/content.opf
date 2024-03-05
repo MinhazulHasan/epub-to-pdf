@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta content="Adobe InDesign 18.5" name="generator" />
+    <dc:title>DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR</dc:title>
+    <dc:date>2023-09-25T14:59:00Z</dc:date>
+    <dc:language>en-GB</dc:language>
+    <dc:language>en-US</dc:language>
+    <dc:language>sv-SE</dc:language>
+    <meta property="dcterms:modified">2023-09-25T17:16:07Z</meta>
+    <dc:identifier id="bookid">urn:uuid:f2ce6947-debf-4279-b401-327e3595c848</dc:identifier>
+    <meta content="0.9.14" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-1" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-2" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-3" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-4" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-5" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-6" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-7" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-8" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-9" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-10" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-11" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-12" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-13" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-14" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-15" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-16" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-17" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-18" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-19" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-20" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-21" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-22" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-23" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-24" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-25" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-26" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-27" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-28" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-29" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-30" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-31" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-32" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-33" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-34" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-35" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-36" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-37" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-38" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-39" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-40" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-41" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-42" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-43" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-44" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-45" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-46" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-47" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-48" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-49" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-50" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-51" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-52" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-53" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-54" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-55" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-56" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-57" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-58" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-59" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-60" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-61" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-62" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-63" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-64" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-65" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-66" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-67" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-68" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-69" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-70" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-71" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-72" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-73" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-74" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-75" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-76" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-77" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-78" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-79" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-80" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-81" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-82" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-83" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-84" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-85" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-86" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-87" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-88" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-89" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-90" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-91" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-92" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-93" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-94" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-95" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-96" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-97" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-98" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-99" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-100" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-101" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-102" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-103" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-104" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-105" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-106" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-107" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-108" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-109" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-110" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-111" href="Text/DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="arbli.TTF" href="Fonts/arbli.TTF" media-type="application/x-font-ttf"/>
+    <item id="arial.ttf" href="Fonts/arial.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbd.ttf" href="Fonts/arialbd.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbi.ttf" href="Fonts/arialbi.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariali.ttf" href="Fonts/ariali.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariblk.ttf" href="Fonts/ariblk.ttf" media-type="application/x-font-ttf"/>
+    <item id="DG_NISSAN_STYLESHEET.css" href="Styles/DG_NISSAN_STYLESHEET.css" media-type="text/css"/>
+    <item id="GLYPHICONS-Halflings-Regular.otf" href="Fonts/GLYPHICONS-Halflings-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="NissanBrand-Bold.woff2" href="Fonts/NissanBrand-Bold.woff2" media-type="application/octet-stream"/>
+    <item id="NissanBrand-Regular.woff2" href="Fonts/NissanBrand-Regular.woff2" media-type="application/octet-stream"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x100.png" href="Images/100.png" media-type="image/png"/>
+    <item id="x101.png" href="Images/101.png" media-type="image/png"/>
+    <item id="x102.png" href="Images/102.png" media-type="image/png"/>
+    <item id="x103.png" href="Images/103.png" media-type="image/png"/>
+    <item id="x104.png" href="Images/104.png" media-type="image/png"/>
+    <item id="x105.png" href="Images/105.png" media-type="image/png"/>
+    <item id="x106.png" href="Images/106.png" media-type="image/png"/>
+    <item id="x107.png" href="Images/107.png" media-type="image/png"/>
+    <item id="x107a.png" href="Images/107a.png" media-type="image/png"/>
+    <item id="x108.png" href="Images/108.png" media-type="image/png"/>
+    <item id="x109.png" href="Images/109.png" media-type="image/png"/>
+    <item id="x110.png" href="Images/110.png" media-type="image/png"/>
+    <item id="x1101.png" href="Images/1101.png" media-type="image/png"/>
+    <item id="x111.png" href="Images/111.png" media-type="image/png"/>
+    <item id="x1111.png" href="Images/1111.png" media-type="image/png"/>
+    <item id="x112.png" href="Images/112.png" media-type="image/png"/>
+    <item id="x113.png" href="Images/113.png" media-type="image/png"/>
+    <item id="x114.png" href="Images/114.png" media-type="image/png"/>
+    <item id="x115.png" href="Images/115.png" media-type="image/png"/>
+    <item id="x116.png" href="Images/116.png" media-type="image/png"/>
+    <item id="x117.png" href="Images/117.png" media-type="image/png"/>
+    <item id="x118.png" href="Images/118.png" media-type="image/png"/>
+    <item id="x119.png" href="Images/119.png" media-type="image/png"/>
+    <item id="x12.png" href="Images/12.png" media-type="image/png"/>
+    <item id="x16.png" href="Images/16.png" media-type="image/png"/>
+    <item id="x17.png" href="Images/17.png" media-type="image/png"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="x21.png" href="Images/21.png" media-type="image/png"/>
+    <item id="x211.png" href="Images/211.png" media-type="image/png"/>
+    <item id="x26.png" href="Images/26.png" media-type="image/png"/>
+    <item id="x28.png" href="Images/28.png" media-type="image/png"/>
+    <item id="x29.png" href="Images/29.png" media-type="image/png"/>
+    <item id="x2a.png" href="Images/2a.png" media-type="image/png"/>
+    <item id="x3.png" href="Images/3.png" media-type="image/png"/>
+    <item id="x30.png" href="Images/30.png" media-type="image/png"/>
+    <item id="x33.png" href="Images/33.png" media-type="image/png"/>
+    <item id="x33a.png" href="Images/33a.png" media-type="image/png"/>
+    <item id="x33b.png" href="Images/33b.png" media-type="image/png"/>
+    <item id="x4.png" href="Images/4.png" media-type="image/png"/>
+    <item id="x41.png" href="Images/41.png" media-type="image/png"/>
+    <item id="x44.png" href="Images/44.png" media-type="image/png"/>
+    <item id="x45.png" href="Images/45.png" media-type="image/png"/>
+    <item id="x46.png" href="Images/46.png" media-type="image/png"/>
+    <item id="x47.png" href="Images/47.png" media-type="image/png"/>
+    <item id="x53.png" href="Images/53.png" media-type="image/png"/>
+    <item id="x6.png" href="Images/6.png" media-type="image/png"/>
+    <item id="x67.png" href="Images/67.png" media-type="image/png"/>
+    <item id="x67a.png" href="Images/67a.png" media-type="image/png"/>
+    <item id="x68.png" href="Images/68.png" media-type="image/png"/>
+    <item id="x7.png" href="Images/7.png" media-type="image/png"/>
+    <item id="x76.png" href="Images/76.png" media-type="image/png"/>
+    <item id="x77.png" href="Images/77.png" media-type="image/png"/>
+    <item id="x78.png" href="Images/78.png" media-type="image/png"/>
+    <item id="x79.png" href="Images/79.png" media-type="image/png"/>
+    <item id="x8.png" href="Images/8.png" media-type="image/png"/>
+    <item id="x81.png" href="Images/81.png" media-type="image/png"/>
+    <item id="x86.png" href="Images/86.png" media-type="image/png"/>
+    <item id="x87.png" href="Images/87.png" media-type="image/png"/>
+    <item id="x88.png" href="Images/88.png" media-type="image/png"/>
+    <item id="x89.png" href="Images/89.png" media-type="image/png"/>
+    <item id="x90.png" href="Images/90.png" media-type="image/png"/>
+    <item id="x91.png" href="Images/91.png" media-type="image/png"/>
+    <item id="x92.png" href="Images/92.png" media-type="image/png"/>
+    <item id="x93.png" href="Images/93.png" media-type="image/png"/>
+    <item id="x94.png" href="Images/94.png" media-type="image/png"/>
+    <item id="x94a.png" href="Images/94a.png" media-type="image/png"/>
+    <item id="x95.png" href="Images/95.png" media-type="image/png"/>
+    <item id="x96.png" href="Images/96.png" media-type="image/png"/>
+    <item id="x97.png" href="Images/97.png" media-type="image/png"/>
+    <item id="x98.png" href="Images/98.png" media-type="image/png"/>
+    <item id="x99.png" href="Images/99.png" media-type="image/png"/>
+    <item id="ANLO0001.png" href="Images/ANLO0001.png" media-type="image/png"/>
+    <item id="AUBR0002.png" href="Images/AUBR0002.png" media-type="image/png"/>
+    <item id="AUBR0002_white.png" href="Images/AUBR0002_white.png" media-type="image/png"/>
+    <item id="BRWA0001.png" href="Images/BRWA0001.png" media-type="image/png"/>
+    <item id="CHWA0002.png" href="Images/CHWA0002.png" media-type="image/png"/>
+    <item id="DG-NMF-A36_display_symbols_014.png" href="Images/DG-NMF-A36_display_symbols_014.png" media-type="image/png"/>
+    <item id="DG-NMF-L34_display_symbols_006.png" href="Images/DG-NMF-L34_display_symbols_006.png" media-type="image/png"/>
+    <item id="DG-NMF-L34_display_symbols_024.png" href="Images/DG-NMF-L34_display_symbols_024.png" media-type="image/png"/>
+    <item id="DG-NMF-ME0_display_symbols_19.png" href="Images/DG-NMF-ME0_display_symbols_19.png" media-type="image/png"/>
+    <item id="DOBO0001.png" href="Images/DOBO0001.png" media-type="image/png"/>
+    <item id="Electric_Parking_brake.png" href="Images/Electric_Parking_brake.png" media-type="image/png"/>
+    <item id="Electric_shift_control_system.png" href="Images/Electric_shift_control_system.png" media-type="image/png"/>
+    <item id="ELPA0002.png" href="Images/ELPA0002.png" media-type="image/png"/>
+    <item id="ELPO0002.png" href="Images/ELPO0002.png" media-type="image/png"/>
+    <item id="ELST0003.png" href="Images/ELST0003.png" media-type="image/png"/>
+    <item id="EV_system_cooling_reduction.png" href="Images/EV_system_cooling_reduction.png" media-type="image/png"/>
+    <item id="FRFO0001.png" href="Images/FRFO0001.png" media-type="image/png"/>
+    <item id="Hands_OFF.png" href="Images/Hands_OFF.png" media-type="image/png"/>
+    <item id="HIBE0002.png" href="Images/HIBE0002.png" media-type="image/png"/>
+    <item id="HIBE0008.png" href="Images/HIBE0008.png" media-type="image/png"/>
+    <item id="HIBE0008_green.png" href="Images/HIBE0008_green.png" media-type="image/png"/>
+    <item id="HIST0002.png" href="Images/HIST0002.png" media-type="image/png"/>
+    <item id="IEB_OFF.png" href="Images/IEB_OFF.png" media-type="image/png"/>
+    <item id="KEY_Green.png" href="Images/KEY_Green.png" media-type="image/png"/>
+    <item id="LOTY0003.png" href="Images/LOTY0003.png" media-type="image/png"/>
+    <item id="MAWA0004.png" href="Images/MAWA0004.png" media-type="image/png"/>
+    <item id="MAWA0004_Orange.png" href="Images/MAWA0004_Orange.png" media-type="image/png"/>
+    <item id="ME0-10.png" href="Images/ME0-10.png" media-type="image/png"/>
+    <item id="ME0-31.png" href="Images/ME0-31.png" media-type="image/png"/>
+    <item id="ME0-32.png" href="Images/ME0-32.png" media-type="image/png"/>
+    <item id="ME0.png" href="Images/ME0.png" media-type="image/png"/>
+    <item id="ProPILOT_Assist_indicators_70_MPH.png" href="Images/ProPILOT_Assist_indicators_70_MPH.png" media-type="image/png"/>
+    <item id="ProPILOT_Assist_indicators_70_MPH_a.png" href="Images/ProPILOT_Assist_indicators_70_MPH_a.png" media-type="image/png"/>
+    <item id="RAB_OFF.png" href="Images/RAB_OFF.png" media-type="image/png"/>
+    <item id="REFO0001.png" href="Images/REFO0001.png" media-type="image/png"/>
+    <item id="SEBE0001.png" href="Images/SEBE0001.png" media-type="image/png"/>
+    <item id="SEIN0002_ME0.png" href="Images/SEIN0002_ME0.png" media-type="image/png"/>
+    <item id="SILI0001.png" href="Images/SILI0001.png" media-type="image/png"/>
+    <item id="SLIN0001.png" href="Images/SLIN0001.png" media-type="image/png"/>
+    <item id="SURE0001.png" href="Images/SURE0001.png" media-type="image/png"/>
+    <item id="Time_for_a_break_ind.png" href="Images/Time_for_a_break_ind.png" media-type="image/png"/>
+    <item id="TUSI0001.png" href="Images/TUSI0001.png" media-type="image/png"/>
+    <item id="Vehicle_Ahead_Detected.png" href="Images/Vehicle_Ahead_Detected.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-1"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-2"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-3"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-4"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-5"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-6"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-7"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-8"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-9"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-10"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-11"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-12"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-13"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-14"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-15"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-16"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-17"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-18"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-19"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-20"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-21"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-22"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-23"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-24"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-25"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-26"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-27"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-28"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-29"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-30"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-31"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-32"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-33"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-34"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-35"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-36"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-37"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-38"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-39"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-40"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-41"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-42"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-43"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-44"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-45"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-46"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-47"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-48"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-49"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-50"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-51"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-52"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-53"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-54"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-55"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-56"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-57"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-58"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-59"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-60"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-61"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-62"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-63"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-64"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-65"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-66"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-67"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-68"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-69"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-70"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-71"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-72"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-73"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-74"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-75"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-76"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-77"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-78"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-79"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-80"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-81"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-82"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-83"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-84"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-85"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-86"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-87"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-88"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-89"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-90"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-91"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-92"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-93"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-94"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-95"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-96"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-97"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-98"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-99"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-100"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-101"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-102"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-103"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-104"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-105"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-106"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-107"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-108"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-109"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-110"/>
+    <itemref idref="DG23_FE0_LIGHTS_MESSAGES_DG23EN-0FE0E0EUR-111"/>
+  </spine>
+</package>

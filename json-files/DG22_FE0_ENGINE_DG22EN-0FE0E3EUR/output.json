@@ -1,0 +1,18 @@
+[
+    {
+        "label": "CHECKING MOTOR COOLANT LEVEL",
+        "contentSource": " Check the coolant level in the reservoir tank when the motor is cold. If the coolant level is below the MIN level 2 add coolant up to the MAX level 1. If the reservoir tank is empty, check the coolant level in the radiator when the motor is cold. If there is insufficient coolant in the radiator, fill the radiator with coolant up to the filler opening and also add it to the reservoir tank up to the MAX level 1. If the cooling system frequently requires coolant, have it checked by a knowledgeable ARIYA repairer such as a NISSAN certified electric vehicle dealer."
+    },
+    {
+        "label": "WINDOW WASHER FLUID LEVEL",
+        "contentSource": "  WARNING Anti-freeze is poisonous and should be stored carefully in marked containers out of the reach of children. To check the fluid level, use your finger to plug the centre hole of the cap/tube assembly, then remove it from the reservoir. If there is no fluid in the tube, add fluid in the reservoir. Add a washer solvent to the water for better cleaning. In the winter season, add a windscreen washer anti-freeze. Follow the manufacturer\u2019s instructions for the mixture ratio.   CAUTION"
+    },
+    {
+        "label": "12-VOLT BATTERY (MAINTENANCE FREE BATTERY)",
+        "contentSource": "  For a maintenance free battery it is not required to check the fluid level. However, NISSAN recommends to visually check the green indicator A status periodically. If it is not visible, replace the battery as soon as possible. If battery replacement or check is required, contact a knowledgeable ARIYA repairer such as a NISSAN certified electric vehicle dealer.  WARNING"
+    },
+    {
+        "label": "ELECTRIC MOTOR COMPARTMENT",
+        "contentSource": " 1 Fuse/fusible link holders 2 Brake fluid reservoir 3 Coolant reservoir (for Powertrain) 4 Coolant reservoir (for Li-Ion battery) 5 12-Volt Battery 6 Window washer fluid reservoir Note:  For the RHD model, the reservoir is located on the opposite side. For the RHD model, the 12-volt battery is located under the luggage compartment."
+    }
+]

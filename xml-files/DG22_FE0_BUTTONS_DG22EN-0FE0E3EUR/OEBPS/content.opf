@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta content="Adobe InDesign 18.0" name="generator" />
+    <dc:title>DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR</dc:title>
+    <dc:date>2022-12-05T14:42:44Z</dc:date>
+    <dc:language>en-GB</dc:language>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2022-12-05T17:40:19Z</meta>
+    <dc:identifier id="bookid">urn:uuid:f2ce6947-debf-4279-b401-327e3595c848</dc:identifier>
+    <meta content="0.9.14" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-1" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-2" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-3" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-4" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-5" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-6" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-7" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-8" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-9" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-10" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-11" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-12" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-13" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-14" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-15" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-16" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-17" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-18" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-19" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-20" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-21" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-22" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-23" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-24" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-25" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-26" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-27" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-28" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-29" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-30" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-31" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-32" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-33" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-34" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-35" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-36" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-37" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-38" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-39" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-40" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-41" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-42" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-43" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-44" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-45" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-46" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-47" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-48" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-49" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-50" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-51" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-52" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-53" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-54" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-55" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-56" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-57" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-58" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-59" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-60" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-61" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-62" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-63" href="Text/DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="arbli.TTF" href="Fonts/arbli.TTF" media-type="application/x-font-ttf"/>
+    <item id="arial.ttf" href="Fonts/arial.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbd.ttf" href="Fonts/arialbd.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbi.ttf" href="Fonts/arialbi.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariali.ttf" href="Fonts/ariali.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariblk.ttf" href="Fonts/ariblk.ttf" media-type="application/x-font-ttf"/>
+    <item id="DG_NISSAN_STYLESHEET.css" href="Styles/DG_NISSAN_STYLESHEET.css" media-type="text/css"/>
+    <item id="GLYPHICONS-Halflings-Regular.otf" href="Fonts/GLYPHICONS-Halflings-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="NissanBrand-Bold.woff2" href="Fonts/NissanBrand-Bold.woff2" media-type="application/octet-stream"/>
+    <item id="NissanBrand-Regular.woff2" href="Fonts/NissanBrand-Regular.woff2" media-type="application/octet-stream"/>
+    <item id="x01_-1-.png" href="Images/01_%281%29.png" media-type="image/png"/>
+    <item id="x02_-1-.png" href="Images/02_%281%29.png" media-type="image/png"/>
+    <item id="x03.png" href="Images/03.png" media-type="image/png"/>
+    <item id="x04.png" href="Images/04.png" media-type="image/png"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x10.png" href="Images/10.png" media-type="image/png"/>
+    <item id="x11.png" href="Images/11.png" media-type="image/png"/>
+    <item id="x12.png" href="Images/12.png" media-type="image/png"/>
+    <item id="x13.png" href="Images/13.png" media-type="image/png"/>
+    <item id="x14.png" href="Images/14.png" media-type="image/png"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="x3.png" href="Images/3.png" media-type="image/png"/>
+    <item id="x4.png" href="Images/4.png" media-type="image/png"/>
+    <item id="x5.png" href="Images/5.png" media-type="image/png"/>
+    <item id="x6.png" href="Images/6.png" media-type="image/png"/>
+    <item id="x7.png" href="Images/7.png" media-type="image/png"/>
+    <item id="x8.png" href="Images/8.png" media-type="image/png"/>
+    <item id="x9.png" href="Images/9.png" media-type="image/png"/>
+    <item id="Activation.png" href="Images/Activation.png" media-type="image/png"/>
+    <item id="Brightness_control_dashboard_LHD.png" href="Images/Brightness_control_dashboard_LHD.png" media-type="image/png"/>
+    <item id="Extra.png" href="Images/Extra.png" media-type="image/png"/>
+    <item id="Extra1.png" href="Images/Extra1.png" media-type="image/png"/>
+    <item id="Foto_23-02-2021_14_06_47_-1-.png" href="Images/Foto_23-02-2021_14_06_47_%281%29.png" media-type="image/png"/>
+    <item id="headlight_aiming_control.png" href="Images/headlight_aiming_control.png" media-type="image/png"/>
+    <item id="need_creation.png" href="Images/need_creation.png" media-type="image/png"/>
+    <item id="need_creation1.png" href="Images/need_creation1.png" media-type="image/png"/>
+    <item id="NIC3980.png" href="Images/NIC3980.png" media-type="image/png"/>
+    <item id="NIC3995.png" href="Images/NIC3995.png" media-type="image/png"/>
+    <item id="NIC3995_-_clean.png" href="Images/NIC3995_-_clean.png" media-type="image/png"/>
+    <item id="Page_12.png" href="Images/Page_12.png" media-type="image/png"/>
+    <item id="Page_19.png" href="Images/Page_19.png" media-type="image/png"/>
+    <item id="Page_19a.png" href="Images/Page_19a.png" media-type="image/png"/>
+    <item id="Page_19_ePedal.png" href="Images/Page_19_ePedal.png" media-type="image/png"/>
+    <item id="Page_20_1.png" href="Images/Page_20_1.png" media-type="image/png"/>
+    <item id="Page_20_2.png" href="Images/Page_20_2.png" media-type="image/png"/>
+    <item id="Page_20_2_wireless.png" href="Images/Page_20_2_wireless.png" media-type="image/png"/>
+    <item id="Page_21.png" href="Images/Page_21.png" media-type="image/png"/>
+    <item id="Page_211.png" href="Images/Page_211.png" media-type="image/png"/>
+    <item id="Page_22.png" href="Images/Page_22.png" media-type="image/png"/>
+    <item id="Page_221.png" href="Images/Page_221.png" media-type="image/png"/>
+    <item id="Page_222.png" href="Images/Page_222.png" media-type="image/png"/>
+    <item id="Page_24.png" href="Images/Page_24.png" media-type="image/png"/>
+    <item id="Page_241.png" href="Images/Page_241.png" media-type="image/png"/>
+    <item id="Page_242.png" href="Images/Page_242.png" media-type="image/png"/>
+    <item id="Page_243.png" href="Images/Page_243.png" media-type="image/png"/>
+    <item id="Page_244.png" href="Images/Page_244.png" media-type="image/png"/>
+    <item id="Page_26.png" href="Images/Page_26.png" media-type="image/png"/>
+    <item id="Page_36_Bottom.png" href="Images/Page_36_Bottom.png" media-type="image/png"/>
+    <item id="Page_36_Bottom1.png" href="Images/Page_36_Bottom1.png" media-type="image/png"/>
+    <item id="Page_36_Bottom2.png" href="Images/Page_36_Bottom2.png" media-type="image/png"/>
+    <item id="Page_36_Bottom3.png" href="Images/Page_36_Bottom3.png" media-type="image/png"/>
+    <item id="Page_36_Bottom4.png" href="Images/Page_36_Bottom4.png" media-type="image/png"/>
+    <item id="Page_36_Bottom5.png" href="Images/Page_36_Bottom5.png" media-type="image/png"/>
+    <item id="Page_36_Bottom6.png" href="Images/Page_36_Bottom6.png" media-type="image/png"/>
+    <item id="Page_47_1.png" href="Images/Page_47_1.png" media-type="image/png"/>
+    <item id="Page_47_11.png" href="Images/Page_47_11.png" media-type="image/png"/>
+    <item id="Page_47_12.png" href="Images/Page_47_12.png" media-type="image/png"/>
+    <item id="Page_49.png" href="Images/Page_49.png" media-type="image/png"/>
+    <item id="Page_491.png" href="Images/Page_491.png" media-type="image/png"/>
+    <item id="Page_4910.png" href="Images/Page_4910.png" media-type="image/png"/>
+    <item id="Page_4911.png" href="Images/Page_4911.png" media-type="image/png"/>
+    <item id="Page_4912.png" href="Images/Page_4912.png" media-type="image/png"/>
+    <item id="Page_4913.png" href="Images/Page_4913.png" media-type="image/png"/>
+    <item id="Page_4914.png" href="Images/Page_4914.png" media-type="image/png"/>
+    <item id="Page_492.png" href="Images/Page_492.png" media-type="image/png"/>
+    <item id="Page_493.png" href="Images/Page_493.png" media-type="image/png"/>
+    <item id="Page_494.png" href="Images/Page_494.png" media-type="image/png"/>
+    <item id="Page_495.png" href="Images/Page_495.png" media-type="image/png"/>
+    <item id="Page_496.png" href="Images/Page_496.png" media-type="image/png"/>
+    <item id="Page_497.png" href="Images/Page_497.png" media-type="image/png"/>
+    <item id="Page_498.png" href="Images/Page_498.png" media-type="image/png"/>
+    <item id="Page_499.png" href="Images/Page_499.png" media-type="image/png"/>
+    <item id="Parking_brake.png" href="Images/Parking_brake.png" media-type="image/png"/>
+    <item id="Parking_brake_ABH.png" href="Images/Parking_brake_ABH.png" media-type="image/png"/>
+    <item id="Push_button_ignition_switch_-1-.png" href="Images/Push_button_ignition_switch_%281%29.png" media-type="image/png"/>
+    <item id="Q.png" href="Images/Q.png" media-type="image/png"/>
+    <item id="Rear_USB.png" href="Images/Rear_USB.png" media-type="image/png"/>
+    <item id="SAFETY_SHIELD_SWITCH.png" href="Images/SAFETY_SHIELD_SWITCH.png" media-type="image/png"/>
+    <item id="SAFETY_SHIELD_SWITCH1.png" href="Images/SAFETY_SHIELD_SWITCH1.png" media-type="image/png"/>
+    <item id="SAFETY_SHIELD_SWITCH2.png" href="Images/SAFETY_SHIELD_SWITCH2.png" media-type="image/png"/>
+    <item id="WBC0039X.png" href="Images/WBC0039X.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-1"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-2"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-3"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-4"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-5"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-6"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-7"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-8"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-9"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-10"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-11"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-12"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-13"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-14"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-15"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-16"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-17"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-18"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-19"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-20"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-21"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-22"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-23"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-24"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-25"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-26"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-27"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-28"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-29"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-30"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-31"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-32"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-33"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-34"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-35"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-36"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-37"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-38"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-39"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-40"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-41"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-42"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-43"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-44"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-45"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-46"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-47"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-48"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-49"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-50"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-51"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-52"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-53"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-54"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-55"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-56"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-57"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-58"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-59"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-60"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-61"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-62"/>
+    <itemref idref="DG22_FE0_BUTTONS_DG22EN-0FE0E3EUR-63"/>
+  </spine>
+</package>

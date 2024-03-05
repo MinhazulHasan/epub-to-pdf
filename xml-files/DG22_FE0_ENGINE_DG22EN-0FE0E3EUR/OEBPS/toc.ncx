@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:f2ce6947-debf-4279-b401-327e3595c848" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>DG22_FE0_ENGINE_DG22EN-0FE0E3EUR</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>ELECTRIC MOTOR COMPARTMENT</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR.xhtml#_idParaDest-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>[ENGINE COMPARTMENT, BONNET, HOOD, COOLANT, BATTERY]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR.xhtml#_idParaDest-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>CHECKING MOTOR COOLANT LEVEL</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-1.xhtml#_idParaDest-3"/>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>[]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-1.xhtml#_idParaDest-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>WINDOW WASHER FLUID LEVEL</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-2.xhtml#_idParaDest-5"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>[RESERVOIR]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-2.xhtml#_idParaDest-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>12-VOLT BATTERY (MAINTENANCE FREE BATTERY)</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-3.xhtml#_idParaDest-7"/>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>[]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_ENGINE_DG22EN-0FE0E3EUR-3.xhtml#_idParaDest-8"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

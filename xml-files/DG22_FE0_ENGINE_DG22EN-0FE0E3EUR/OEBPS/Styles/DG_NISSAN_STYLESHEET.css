@@ -1,0 +1,974 @@
+@font-face {
+  font-family: "Nissan Brand Bold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../Fonts/NissanBrand-Bold.woff2"); }
+@font-face {
+  font-family: "Nissan Brand Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/NissanBrand-Regular.woff2"); }
+body {
+  margin: 1rem; }
+
+.icon > img,
+.icon-1em > img,
+p.IconsList img,
+.Bullets img,
+.H2 > img,
+td.CAUTION_LEAF_TABLE-col-text,
+td.LEAF_Numbers_TABLE_Text_Cell,
+td.TABLE_Scrollable img, .TableHeader img,
+.TableHeader img {
+  width: auto; }
+
+.image > img,
+.image > .Bold > img,
+.icon-075em > img,
+.icon-1-5em > img,
+.LEAF_table p img,
+td.TABLE_Scrollable img,
+.LEAF-TABLE-GRAY-HEAD.LEAF-TABLE-GRAY-HEAD-col-last p img {
+  height: auto; }
+
+.image > img,
+.image > .Bold > img,
+.icon-075em > img,
+.icon-1-5em > img,
+.LEAF_table p img {
+  max-width: 100%; }
+
+.icon > img,
+td.LEAF_Numbers_TABLE.LEAF_RIBBON_ARROW img,
+.Bullets img,
+.H2 > img {
+  height: 1rem; }
+
+.icon-1em > img {
+  height: 1.2rem; }
+
+.icon-075em > img {
+  height: .75rem; }
+
+.icon-1-5em > img,
+p.IconsList img {
+  height: 1.5rem; }
+
+h1.H1,
+p.H1-NO_TOC,
+.TITLE,
+span.CalloutOne,
+span.CalloutOneInText,
+span.CalloutTwo,
+span.CalloutTwoInText,
+.Transparent {
+  color: white; }
+
+h1.H1,
+p.H1-NO_TOC,
+.TITLE,
+.CalloutOne,
+.CalloutOneInText,
+.CalloutTwo,
+.CalloutTwoInText {
+  background-color: #C3002F; }
+
+h1.H1,
+p.H1-NO_TOC,
+.TITLE,
+h2 {
+  text-transform: uppercase; }
+
+h1.H1,
+p.H1-NO_TOC,
+.TITLE {
+  padding: .1rem .2rem .1rem .2rem;
+  font-size: 1.2rem;
+  margin: 0 0 .5rem 0; }
+
+h2,
+.BodySpaceBefore,
+td.CAUTION_LEAF_TABLE-col-text {
+  margin-top: 1.5rem; }
+
+h2 {
+  color: #C3002F;
+  font-size: 1rem; }
+
+h4 {
+  font-size: 0.5rem;
+  color: #c8c8c8;
+  text-align: right; }
+
+p.NumberedList,
+.NumberedListNormal,
+p.NumberedListCallouts,
+p.BodySpaceBefore,
+p.LEAF_CAUTION_Text-Bold-Space-Before,
+p.LEAF_CAUTION_Text,
+p.LEAF_CAUTION_Text-Bold,
+li.Bullets,
+p.Callouts,
+p.Body,
+li.LEAF_CAUTION_Bullets {
+  line-height: 1.5; }
+
+td.Basic-Table,
+table.TMPSTable,
+table.FWDTable,
+tr.FWDTable,
+table.FWDTableSmall,
+table.TMPSTableSmall,
+.FWDTableSmall,
+.TMPSTableSmall,
+tr.FWDTableSmall,
+tr.TMPSTableSmall {
+  border-width: 0; }
+
+p.NumberedList {
+  text-indent: -1.3rem;
+  margin-left: 2.4rem; }
+
+.NumberedListNormal,
+.CalloutsList-Inline-Text-Lvl2,
+.NoteText,
+.NumberedListInlineBullets,
+p.CalloutList:nth-child(even),
+p.CalloutsList:nth-child(even),
+li.CalloutsList-Inline-Bullets,
+.CalloutsList-Inline-Text,
+p.CalloutsList-Inline-Text_CalloutsList,
+td.LEAF_Numbers_TABLE_Text_Cell,
+p.NumberedListInline,
+p.BodyMargin {
+  margin-left: 2rem; }
+
+.NumberedListNormal {
+  text-indent: -1.1rem; }
+
+p.NumberedListInline,
+p.NumberedListCallouts,
+p.Callouts:nth-child(even),
+p.NumberedList:nth-child(even),
+p.NumberedListCallouts:nth-child(even),
+.NumberedListCallouts-2callouts-on-line {
+  margin-left: 2.5rem; }
+
+p.NoteTextSpaceBeforeAndAfter,
+p.NumberedListUnderBullets {
+  margin-left: 4rem; }
+
+p.NoteTextSpaceBeforeAndAfter {
+  text-indent: -2.7rem;
+  margin-right: 2rem; }
+
+col:first-child,
+td.FWDTable-col1 {
+  width: 10%; }
+
+td.Basic-Table,
+td.LEAF_Numbers_TABLE.LEAF_RIBBON_ARROW,
+td.LEAF_Basic_Table {
+  padding: 0; }
+
+td.Basic-Table,
+td.LEAF_Basic_Table.LEAF_Basic_TABLE_first-col,
+td.FWDTableSmall,
+td.TMPSTableSmall {
+  padding-bottom: 1rem; }
+
+table.TMPSTable,
+table.FWDTable,
+table.Basic-Table,
+table.CAUTION_LEAF_TABLE,
+table.LEAF_Numbers_TABLE,
+table.LEAF_Basic_Table,
+table.LEAF-TABLE-GRAY-HEAD,
+table.TABLE_Scrollable,
+.imageBig > img,
+td.FWDTableSmall,
+td.TMPSTableSmall {
+  width: 100%; }
+
+table.TMPSTable,
+table.FWDTable,
+table.Basic-Table,
+p.H1-NO_TOC,
+.NoteText,
+td.FWDTableSmall,
+td.TMPSTableSmall {
+  margin-top: 2rem; }
+
+thead > tr > td.TMPSTable,
+thead > tr > td.FWDTable,
+.FWDTable-head-col2,
+.FWDTable-head-col3,
+.TMPSTable-head-col2,
+.FWDTable-head-col1,
+.TMPSTable-head-col1,
+.FWDTable-head-col4,
+.TMPSTable-head-col3 {
+  border-top-width: 0; }
+
+.TMPSTable1stCol,
+.FWDTable-head-col1,
+.TMPSTable-head-col1,
+td.FWDTable-col1,
+td.FWDTableSmall,
+td.TMPSTableSmall {
+  border-left-width: 0; }
+
+.TMPSTable3rdCol,
+.FWDTable-head-col4,
+.TMPSTable-head-col3,
+.FWDTable-col4,
+td.FWDTableSmall,
+td.TMPSTableSmall {
+  border-right-width: 0; }
+
+table.TMPSTableSmall,
+table.FWDTableSmall,
+.H1-NCX,
+.VIDEO-article,
+.H2-DEMO-display-hidden,
+.numbers-hidden,
+.search,
+search,
+chapter,
+.chapter,
+.SEARCH_KEYWORDS {
+  display: none; }
+
+table.FWDTable,
+table.Basic-Table,
+table.TMPSTable,
+p.CalloutsList-Inline-Text_CalloutsList:nth-child(odd),
+.CAUTION_LEAF_TABLE-col-text .NoteText_LEAF {
+  margin-bottom: 1rem; }
+
+.FWDTable-col4,
+.FWDTable-col2 {
+  width: 40%; }
+
+.BulletsInlineText {
+  margin-left: 1.5rem; }
+
+p.NumberedListCallouts {
+  text-indent: -2.2rem; }
+
+h3,
+.H3,
+.CAUTION {
+  margin-top: 2.5rem; }
+
+h3,
+.H3 {
+  font-size: 0.8rem; }
+
+video {
+  margin: 2em auto 2em auto; }
+
+.NUMBERS_inline {
+  font-weight: normal; }
+
+p.H1-NO_TOC,
+.CalloutOne,
+.CalloutOneInText,
+.CalloutTwo,
+.CalloutTwoInText,
+.LEAF_CAUTION_Text-Bold,
+.LEAF_CAUTION_Bullets,
+.LEAF_CAUTION_Bullets-Level-2 {
+  font-weight: bold; }
+
+li.BulletsLevel2,
+td.CAUTION_LEAF_Table-col-icon {
+  margin-left: .5rem; }
+
+.NoteBullet,
+.NoteBulletLastParagraph,
+li.CAUTIONBullets,
+li.CAUTIONBulletsLastParagraph,
+td.CAUTION_LEAF_TABLE-col-text ul {
+  margin-left: 1rem; }
+
+.NoteBulletLevel2 {
+  margin-left: -.3rem; }
+
+.CAUTIONBulletsLevel2,
+li.Bullets,
+.NumberedListInlineBulletsLvl2 {
+  margin-left: -.5rem; }
+
+.CalloutsList-Inline-Text-Lvl2-Bullets {
+  margin-left: .3rem;
+  text-indent: -0.7rem; }
+
+/* NOTE */
+.NoteText {
+  text-indent: -2.3rem; }
+
+p.NoteTextSpaceBeforeAndAfter {
+  text-indent: -2.4rem; }
+
+.CalloutOne,
+.CalloutTwo,
+td.CAUTION_LEAF_TABLE-col-text p,
+td.LEAF_Numbers_TABLE_Text_Cell p {
+  margin-right: .7rem; }
+
+span.CalloutOne,
+span.CalloutOneInText,
+span.CalloutTwo,
+span.CalloutTwoInText {
+  font-size: 90%; }
+
+.CalloutOne,
+.CalloutOneInText,
+.CalloutTwo,
+.CalloutTwoInText {
+  font-family: Arial, sans-serif; }
+
+.CalloutOne,
+.CalloutOneInText,
+.CalloutTwo,
+.CalloutTwoInText {
+  border-radius: 50%; }
+
+.CalloutOne {
+  padding: 0.3rem 0.6rem 0.3rem 0.6rem; }
+
+.CalloutOneInText,
+.CalloutTwoInText {
+  margin-right: 0.2rem; }
+
+.CalloutOneInText {
+  padding: 0.2rem 0.45rem 0.2rem 0.45rem; }
+
+.CalloutTwo {
+  padding: 0.35rem 0.36rem 0.35rem 0.36rem; }
+
+.CalloutTwoInText {
+  padding: 0.3rem; }
+
+p.Callouts:nth-child(even),
+p.NumberedList:nth-child(even),
+p.NumberedListCallouts:nth-child(even),
+.CalloutListInline,
+p.IconsList:nth-child(even) {
+  text-indent: 0; }
+
+p.Callouts:nth-child(even),
+p.NumberedList:nth-child(even),
+p.NumberedListCallouts:nth-child(even) {
+  margin-top: -1.7rem; }
+
+p.CalloutList,
+p.CalloutsList,
+.NumberedListInlineBullets,
+.NumberedListInlineBulletsLvl2 {
+  line-height: 1.4; }
+
+p.CalloutList,
+p.CalloutsList,
+.CAUTION_LEAF_TABLE-col-text .NoteText_LEAF,
+.LEAF_CAUTION_Text-Bold-Space-Before,
+p.TableHeader,
+.TableHeader img {
+  margin-top: 1rem; }
+
+p.CalloutList:nth-child(even),
+p.CalloutsList:nth-child(even) {
+  margin-top: -1.4rem; }
+
+.CalloutListInline,
+p.NumberedListInline:nth-child(even) {
+  margin-left: 2.6rem; }
+
+.NumberedListCallouts-2callouts-on-line,
+td.LEAF_table p {
+  line-height: 1.7; }
+
+.NumberedListCallouts-2callouts-on-line {
+  text-indent: 2rem;
+  margin-top: -1.5rem; }
+
+li.CalloutsList-Inline-Bullets:nth-child(odd) {
+  margin-top: -.8rem; }
+
+.Transparent {
+  color: transparent; }
+
+p.CalloutsList-Inline-Text_CalloutsList:nth-child(odd) {
+  margin-left: 4.2rem;
+  margin-top: -1.2rem; }
+
+p.IconsList,
+.LEAF_CAUTION_Text,
+.LEAF_CAUTION_Text-Bold {
+  line-height: 1.8; }
+
+p.IconsList:nth-child(even),
+p.NumberedListUnderBullets {
+  margin-left: 3.5rem; }
+
+p.IconsList:nth-child(even) {
+  margin-top: -2.2rem; }
+
+/* NUMBERED LISTS */
+p.NumberedList:nth-child(even) {
+  margin-top: -1.55rem;
+  margin-left: 2.3rem; }
+
+p.NumberedListUnderBullets {
+  text-indent: -1.2rem; }
+
+p.NumberedListInline:nth-child(even) {
+  margin-top: -1.3rem; }
+
+td.LEAF_table,
+td.LEAF_Basic_Table {
+  vertical-align: middle; }
+
+td.LEAF_table {
+  border: 1px solid #C0C0C0; }
+
+table.LEAF_table,
+table.CAUTION_LEAF_TABLE,
+table.LEAF_Numbers_TABLE,
+table.LEAF_Basic_Table,
+table.LEAF-TABLE-GRAY-HEAD,
+.LEAF_first-col {
+  margin-top: 3rem; }
+
+table.LEAF_table,
+table.CAUTION_LEAF_TABLE,
+table.LEAF_Numbers_TABLE,
+table.LEAF_Basic_Table,
+table.LEAF-TABLE-GRAY-HEAD,
+td.LEAF_last-col {
+  margin-bottom: 3rem; }
+
+td.LEAF_last-col p {
+  color: #808080; }
+
+/* CAUTION TABLES */
+table.CAUTION_LEAF_TABLE,
+td.CAUTION_LEAF_TABLE,
+table.LEAF_Numbers_TABLE,
+td.LEAF_Numbers_TABLE,
+tr.LEAF_Numbers_TABLE:first-child,
+td.LEAF_Basic_Table,
+table.TABLE_Scrollable,
+.FWDTableSmall,
+.TMPSTableSmall,
+table.LEAF_table,
+table.LEAF_table tbody,
+table.LEAF_table thead,
+table.LEAF_table tr,
+table.LEAF_table td,
+table.LEAF_table th {
+  display: block; }
+
+table.CAUTION_LEAF_TABLE,
+td.CAUTION_LEAF_TABLE,
+table.LEAF_Numbers_TABLE,
+td.LEAF_Numbers_TABLE,
+table.LEAF_Basic_Table,
+.LEAF_Basic_Table.LEAF_Basic_TABLE_last-col,
+td.LEAF_Basic_Table.LEAF_Basic_TABLE_first-col,
+table.TABLE_Scrollable,
+table.LEAF_table,
+table.LEAF_table td {
+  border: none; }
+
+table.CAUTION_LEAF_TABLE {
+  background-color: #DBDCDE; }
+
+td.LEAF_Numbers_TABLE_Number_Cell,
+td.CAUTION_LEAF_Table-col-icon {
+  width: 2rem; }
+
+td.CAUTION_LEAF_Table-col-icon {
+  margin-top: .3rem;
+  float: left;
+  background-color: transparent; }
+
+td.CAUTION_LEAF_Table-col-icon p {
+  margin-top: 0.7rem; }
+
+td.CAUTION_LEAF_TABLE-col-text {
+  background-color: transparent;
+  padding-bottom: 0;
+  margin-left: 3rem; }
+
+.CAUTION_LEAF_TABLE-col-text .NoteText_LEAF {
+  margin-left: 3rem; }
+
+td.CAUTION_LEAF_TABLE-col-text ul {
+  margin-bottom: -.5rem;
+  margin-top: -.5rem;
+  padding-right: 1rem; }
+
+td.CAUTION_LEAF_TABLE-col-text ul li {
+  padding-bottom: .5rem;
+  margin-right: 1rem;
+  margin-left: -1.5rem; }
+
+td.CAUTION_LEAF_TABLE-col-text ul li.CAUTIONBulletsLastParagraph {
+  padding-bottom: 1.2rem;
+  margin-bottom: 0; }
+
+li.LEAF_CAUTION_Bullets {
+  margin-left: -2rem; }
+
+td.CAUTION_LEAF_TABLE-col-text {
+  margin-bottom: 1.5rem; }
+
+.LEAF_Note-Text {
+  margin-top: -.3rem;
+  padding-right: 1rem; }
+
+td.LEAF_Numbers_TABLE_Number_Cell {
+  bottom: 0;
+  float: left;
+  position: absolute;
+  top: 0; }
+
+table.LEAF_Numbers_TABLE tr:nth-child(even) td {
+  background-color: transparent; }
+
+td.LEAF_Numbers_TABLE_Text_Cell {
+  padding-bottom: 0;
+  padding-left: 1rem; }
+
+td.LEAF_Numbers_TABLE_Number_Cell p,
+td.LEAF_table p {
+  margin-bottom: 0; }
+
+tr.LEAF_Numbers_TABLE:nth-child(odd) {
+  background-color: #dae0f2; }
+
+tr.LEAF_Numbers_TABLE:nth-child(even) {
+  background-color: transparent; }
+
+td.LEAF_Numbers_TABLE_Text_Cell p {
+  margin-top: 0.5rem; }
+
+tr.LEAF_Numbers_TABLE:first-child,
+tr.LEAF_Basic_Table {
+  position: relative; }
+
+tr.LEAF_Numbers_TABLE:first-child {
+  overflow: hidden; }
+
+/* START REFACTORING HERE */
+td.LEAF_Numbers_TABLE.LEAF_RIBBON_ARROW,
+td.LEAF_Basic_Table {
+  float: left; }
+
+ul li p.BodyMargin,
+td.LEAF_Numbers_TABLE.LEAF_RIBBON_ARROW img {
+  margin-left: 0; }
+
+td.LEAF_Numbers_TABLE.LEAF_RIBBON_ARROW img {
+  width: 2.5rem; }
+
+table.LEAF_Basic_Table,
+table.LEAF-TABLE-GRAY-HEAD,
+td.LEAF-TABLE-GRAY-HEAD {
+  border-collapse: collapse; }
+
+table.LEAF_Basic_Table,
+table.LEAF-TABLE-GRAY-HEAD {
+  table-layout: auto; }
+
+td.LEAF_Basic_Table.LEAF_Basic_TABLE_first-col {
+  min-width: 6rem; }
+
+.LEAF_Basic_Table.LEAF_Basic_TABLE_last-col {
+  float: none;
+  display: table-cell; }
+
+tr.LEAF_Basic_Table {
+  display: table; }
+
+td.LEAF-TABLE-GRAY-HEAD,
+table.LEAF_table td {
+  padding-top: .5rem; }
+
+td.LEAF-TABLE-GRAY-HEAD {
+  border: 1px solid #AEAEAE; }
+
+tr.LEAF-TABLE-GRAY-HEAD:first-child {
+  background-color: #AEAEAE; }
+
+.LEAF-TABLE-GRAY-HEAD.first-long-col {
+  background-color: white;
+  width: 60%; }
+
+.LEAF-TABLE-GRAY-HEAD.second-short-col,
+.LEAF-TABLE-GRAY-HEAD.last-short-col {
+  width: 20%; }
+
+table.TABLE_Scrollable {
+  overflow-x: auto;
+  overflow-y: auto;
+  height: 30rem; }
+
+td.TABLE_Scrollable {
+  border: 1px solid #dae0f2; }
+
+td.TABLE_Scrollable p {
+  text-align: center; }
+
+ul li ul li.BulletsLevel2 {
+  margin-left: -1rem; }
+
+td.FWDTable-head-col1,
+td.FWDTable-head-col2,
+td.FWDTable-head-col3,
+td.FWDTable-head-col4 {
+  border-top: none; }
+
+td.FWDTable-head-col1 {
+  border-left: none; }
+
+td.FWDTable-head-col4,
+td.FWDTable-col4 {
+  border-right: none; }
+
+@media screen and (max-width: 640px) {
+  .imageBig > img,
+  .image > img {
+    height: 100%; }
+
+  li.Bullets {
+    margin-left: -1rem; }
+
+  h1.H1,
+  p.H1-NO_TOC {
+    font-size: 1rem; }
+
+  h2 {
+    font-size: 0.8rem; }
+
+  table.FWDTableSmall,
+  .TMPSTableSmall {
+    margin-bottom: 2rem; }
+
+  td.FWDTableSmall,
+  td.TMPSTableSmall {
+    border-top: 6px solid grey;
+    border-bottom: 1px solid grey;
+    margin-bottom: 0.5rem;
+    padding-bottom: 1rem; }
+
+  .TableHeader img {
+    height: 58px;
+    margin-bottom: -.4rem; }
+
+  table.LEAF_table,
+  table.LEAF_table tbody,
+  table.LEAF_table thead,
+  table.LEAF_table tr,
+  table.LEAF_table td,
+  table.LEAF_table th {
+    background-color: transparent; }
+
+  table.LEAF_table td {
+    border-bottom: 1px solid #C0C0C0;
+    padding-bottom: .5rem; }
+
+  td.LEAF_last-col {
+    border-bottom: 2px solid #C0C0C0; }
+
+  td.LEAF_table.LEAF_first-col {
+    border-top: 4px solid #C0C0C0; }
+
+  table.FWDTableSmall,
+  table.TMPSTableSmall {
+    display: block; }
+
+  table.FWDTable,
+  .TMPSTable {
+    display: none; } }
+p {
+  font-family: "Nissan Brand Normal"; }
+
+h1 {
+  font-family: "Nissan Brand Bold"; }
+  h1.H1 {
+    font-family: "Nissan Brand Bold"; }
+
+h1 {
+  font-family: "Nissan Brand Bold"; }
+  h1.H1 {
+    padding: 0 .4rem .1rem .4rem;
+    font-family: "Nissan Brand Bold"; }
+
+h2 {
+  font-family: "Nissan Brand Bold";
+  margin-top: 2rem;
+  line-height: 1.6; }
+  h2 img {
+    height: .65rem;
+    width: auto; }
+
+p {
+  font-family: "Nissan Brand Regular";
+  line-height: 1.6; }
+  p.Body {
+    padding-bottom: .5rem;
+    font-family: "Nissan Brand Regular";
+    line-height: 1.6; }
+  p.icon img {
+    max-height: 1rem;
+    width: auto;
+    padding: 0 .3rem 0 .3rem; }
+  p.icon span.img-reset img {
+    max-height: none; }
+  p.BodyMargin {
+    line-height: 1.6; }
+  p.BodySpaceBefore {
+    font-family: "Nissan Brand Regular";
+    line-height: 1.6; }
+  p.CalloutsList, p.CalloutsList_Clearfix {
+    font-family: "Nissan Brand Regular";
+    line-height: 1.6; }
+    p.CalloutsList span.CalloutOne, p.CalloutsList_Clearfix span.CalloutOne {
+      margin-right: 0.1rem;
+      margin-left: 0.1rem;
+      font-size: 90%;
+      background-color: #C3002F;
+      color: white;
+      font-weight: bold;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      padding-left: 0.45rem;
+      padding-right: 0.45rem;
+      border-radius: 50%;
+      font-family: "Nissan Brand Bold";
+      font-family: Arial, sans-serif;
+      margin-left: 0; }
+    p.CalloutsList span.CalloutTwo, p.CalloutsList_Clearfix span.CalloutTwo {
+      margin-right: 0.1rem;
+      margin-left: 0.1rem;
+      font-size: 90%;
+      background-color: #C3002F;
+      color: white;
+      font-weight: bold;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      padding-left: 0.25rem;
+      padding-right: 0.25rem;
+      border-radius: 50%;
+      font-family: "Nissan Brand Bold";
+      font-family: Arial, sans-serif;
+      margin-left: 0; }
+    p.CalloutsList span.Body, p.CalloutsList_Clearfix span.Body {
+      font-family: "Nissan Brand Regular";
+      line-height: 1.6; }
+  p.CalloutsList:nth-child(even) {
+    margin-top: -1.65rem; }
+  p.CalloutsList_Clearfix {
+    margin-top: 1rem; }
+    p.CalloutsList_Clearfix:nth-child(odd) {
+      margin-top: -1.65rem;
+      margin-left: 2rem; }
+  p.CAUTIONText {
+    line-height: 1.6;
+    font-family: "Nissan Brand Bold"; }
+  p.CAUTIONTextLastParagraph {
+    margin-bottom: 2rem;
+    line-height: 1.6;
+    font-family: "Nissan Brand Bold"; }
+  p.H3 {
+    color: #404247;
+    line-height: 1.6;
+    margin-top: 1rem; }
+  p.H3-red {
+    font-family: "Nissan Brand Bold";
+    color: #C3002F;
+    line-height: 1.6;
+    margin-top: 1rem; }
+  p.IconsList {
+    line-height: 2; }
+    p.IconsList img {
+      max-height: 1rem;
+      width: auto; }
+  p.LEAF_CAUTION_Text {
+    font-family: "Nissan Brand Regular"; }
+    p.LEAF_CAUTION_Text img {
+      filter: opacity(65%); }
+  p.LEAF_Note-Text {
+    line-height: 1.6; }
+  p.LEAF_CAUTION_Text-Bold {
+    margin-top: -.6rem;
+    color: #404247; }
+  p.NoteTextSpaceBeforeAndAfter {
+    font-family: "Nissan Brand Bold";
+    line-height: 1.6; }
+  p.NumberedList {
+    font-family: "Nissan Brand Regular"; }
+    p.NumberedList:nth-child(even) {
+      margin-top: -1.6rem; }
+    p.NumberedList span.Bold {
+      font-family: "Nissan Brand Bold"; }
+  p.TableImage img {
+    max-width: 90%;
+    height: auto; }
+
+li {
+  list-style-type: square;
+  line-height: 1.6; }
+  li.Bullets {
+    list-style-type: square; }
+    li.Bullets img {
+      max-height: 1rem;
+      width: auto;
+      padding: 0 .3rem 0 .3rem; }
+  li.BulletsBodyMargin_2x {
+    list-style-type: square;
+    margin-left: 2.5rem; }
+    li.BulletsBodyMargin_2x:first-child {
+      margin-top: -.7rem; }
+  li.CAUTIONBullets {
+    list-style-type: square;
+    font-family: "Nissan Brand Bold";
+    line-height: 1.6; }
+  li.CAUTIONBulletsLastParagraph {
+    list-style-type: square;
+    font-family: "Nissan Brand Bold";
+    margin-bottom: 2rem;
+    line-height: 1.6; }
+  li.CAUTIONBulletsLevel2 {
+    margin-left: -.5rem;
+    font-family: "Nissan Brand Bold";
+    line-height: 1.6; }
+  li.NoteBullet, li.NoteBulletLastParagraph {
+    list-style-type: square;
+    margin-left: 1rem;
+    font-family: "Nissan Brand Bold";
+    line-height: 1.6;
+    font-size: 0.833rem; }
+  li.NoteBullet {
+    line-height: 1.6; }
+    li.NoteBullet:first-child {
+      margin-top: -.5rem; }
+  li.NoteBulletLevel2 {
+    line-height: 1.6;
+    font-family: "Nissan Brand Bold";
+    margin-left: -.5rem; }
+  li.BulletsLevel3 {
+    list-style: square;
+    margin-left: 1.2rem; }
+  li.NumberedList_bullets {
+    line-height: 1.6;
+    font-family: "Nissan Brand Regular";
+    list-style-type: square; }
+  li.LEAF_CAUTION_Bullets {
+    font-family: "Nissan Brand Bold";
+    color: #404247;
+    list-style-type: square; }
+  li.CalloutsList-Inline-Bullets {
+    margin-left: 1.2rem; }
+    li.CalloutsList-Inline-Bullets:first-child {
+      margin-top: -.5rem; }
+    li.CalloutsList-Inline-Bullets:nth-child(3) {
+      margin-top: 0; }
+  li.BulletsLevel2 {
+    list-style: square; }
+
+table.Basic-Table {
+  border: none; }
+table.LEAF_CHARGING {
+  display: none; }
+
+td.CAUTION_LEAF_TABLE-col-text {
+  margin-bottom: 1rem; }
+  td.CAUTION_LEAF_TABLE-col-text p {
+    color: #404247;
+    margin-top: -.5rem;
+    line-height: 1.6; }
+  td.CAUTION_LEAF_TABLE-col-text li {
+    font-family: "Nissan Brand Bold";
+    color: #404247; }
+  td.CAUTION_LEAF_TABLE-col-text ul li {
+    font-family: "Nissan Brand Bold";
+    color: #404247;
+    list-style-type: square; }
+    td.CAUTION_LEAF_TABLE-col-text ul li.Bullets {
+      font-family: "Nissan Brand Bold";
+      color: #404247;
+      list-style-type: square; }
+      td.CAUTION_LEAF_TABLE-col-text ul li.Bullets:first-child {
+        margin-top: 1rem; }
+td.LEAF_Numbers_TABLE_Number_Cell p {
+  margin-top: -.4rem; }
+td.LEAF_Numbers_TABLE_Text_Cell p {
+  color: #404247; }
+  td.LEAF_Numbers_TABLE_Text_Cell p:last-child {
+    padding-bottom: .4rem; }
+td.LEAF_Numbers_TABLE_Text_Cell ul li {
+  color: #404247;
+  list-style-type: square; }
+td.LEAF-TABLE-GRAY-HEAD p {
+  color: #404247; }
+
+span.CalloutOneInText {
+  margin-right: 0.1rem;
+  margin-left: 0.1rem;
+  font-size: 90%;
+  background-color: #C3002F;
+  color: white;
+  font-weight: bold;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  padding-left: 0.37rem;
+  padding-right: 0.37rem;
+  border-radius: 50%;
+  font-family: "Nissan Brand Bold";
+  font-family: Arial, sans-serif;
+  margin-left: 0; }
+span.CalloutTwoInText {
+  margin-right: 0.1rem;
+  margin-left: 0.1rem;
+  font-size: 90%;
+  background-color: #C3002F;
+  color: white;
+  font-weight: bold;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  padding-left: 0.15rem;
+  padding-right: 0.15rem;
+  border-radius: 50%;
+  font-family: "Nissan Brand Bold";
+  font-family: Arial, sans-serif;
+  margin-left: 0; }
+
+.LEAF_Basic_Table.LEAF_Basic_TABLE_last-col {
+  padding-bottom: 1.5rem; }
+
+/* Portrait and Landscape iPhone */
+@media only screen and (max-width: 812px) {
+  table.TABLE_Scrollable {
+    display: none; }
+  table.LEAF_CHARGING {
+    border: none;
+    display: block;
+    margin: 3rem auto 3rem auto; }
+    table.LEAF_CHARGING td {
+      border: none; }
+      table.LEAF_CHARGING td.TOP {
+        border-top: 4px solid #C0C0C0; }
+      table.LEAF_CHARGING td.BOT {
+        padding-bottom: 3rem; }
+        table.LEAF_CHARGING td.BOT p:last-child {
+          border-bottom: 1px solid #C0C0C0; }
+    table.LEAF_CHARGING tr:nth-child(odd) p {
+      margin-bottom: 0;
+      padding-bottom: 0; } }
+ul {
+  margin-bottom: 0;
+  margin-top: 0; }

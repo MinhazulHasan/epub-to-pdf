@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:f2ce6947-debf-4279-b401-327e3595c848" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>DG22_FE0_TYRE_DG22EN-0FE0E3EUR</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>STOPPING THE VEHICLE</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR.xhtml#_idParaDest-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>[HOW TO STOP THE VEHICLE, STOP THE VEHICLE]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR.xhtml#_idParaDest-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>CHANGING FLAT TYRE (MODELS WITH SPARE TYRE)</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-1.xhtml#_idParaDest-3"/>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>[SPARE WHEEL, CHANGING WHEEL]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-1.xhtml#_idParaDest-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>CHANGING FLAT TYRE (DEMO)</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-2.xhtml#_idParaDest-5"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>[]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-2.xhtml#_idParaDest-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>REPAIRING FLAT TYRE (MODELS WITH EMERGENCY TYRE PUNCTURE REPAIR KIT)</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-3.xhtml#_idParaDest-7"/>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>[]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-3.xhtml#_idParaDest-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>REPAIRING TYRE</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-4.xhtml#_idParaDest-9"/>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>[WHEEL PRESSURE, TYRE PLACARD]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-4.xhtml#_idParaDest-10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>TYRE PRESSURE INFORMATION</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-5.xhtml#_idParaDest-11"/>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>[WHEEL PRESSURE, TYRE PLACARD]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-5.xhtml#_idParaDest-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>EMERGENCY TYRE PUNCTURE REPAIR KIT (DEMO)</text>
+      </navLabel>
+      <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-6.xhtml#_idParaDest-13"/>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>[]</text>
+        </navLabel>
+        <content src="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-6.xhtml#_idParaDest-14"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

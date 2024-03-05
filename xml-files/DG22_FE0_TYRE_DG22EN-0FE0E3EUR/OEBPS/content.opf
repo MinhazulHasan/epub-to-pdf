@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="generator" content="Adobe InDesign 18.0" />
+    <dc:title>DG22_FE0_TYRE_DG22EN-0FE0E3EUR</dc:title>
+    <dc:date>2022-12-05T14:44:42Z</dc:date>
+    <dc:language>en-GB</dc:language>
+    <dc:language>en-US</dc:language>
+    <dc:language>sv-SE</dc:language>
+    <meta property="dcterms:modified">2022-12-05T17:52:37Z</meta>
+    <dc:identifier id="bookid">urn:uuid:f2ce6947-debf-4279-b401-327e3595c848</dc:identifier>
+    <meta name="Sigil version" content="0.9.14" />
+  </metadata>
+  <manifest>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-1" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-2" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-3" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-4" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-5" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-6" href="Text/DG22_FE0_TYRE_DG22EN-0FE0E3EUR-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="arbli.TTF" href="Fonts/arbli.TTF" media-type="application/x-font-ttf"/>
+    <item id="arial.ttf" href="Fonts/arial.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbd.ttf" href="Fonts/arialbd.ttf" media-type="application/x-font-ttf"/>
+    <item id="arialbi.ttf" href="Fonts/arialbi.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariali.ttf" href="Fonts/ariali.ttf" media-type="application/x-font-ttf"/>
+    <item id="ariblk.ttf" href="Fonts/ariblk.ttf" media-type="application/x-font-ttf"/>
+    <item id="DG_NISSAN_STYLESHEET.css" href="Styles/DG_NISSAN_STYLESHEET.css" media-type="text/css"/>
+    <item id="GLYPHICONS-Halflings-Regular.otf" href="Fonts/GLYPHICONS-Halflings-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="NissanBrand-Bold.woff2" href="Fonts/NissanBrand-Bold.woff2" media-type="application/octet-stream"/>
+    <item id="NissanBrand-Regular.woff2" href="Fonts/NissanBrand-Regular.woff2" media-type="application/octet-stream"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="x3.png" href="Images/3.png" media-type="image/png"/>
+    <item id="x80_max.png" href="Images/80_max.png" media-type="image/png"/>
+    <item id="repairing_flat_tyre.png" href="Images/repairing_flat_tyre.png" media-type="image/png"/>
+    <item id="repairing_tyre.png" href="Images/repairing_tyre.png" media-type="image/png"/>
+    <item id="repairing_tyre1.png" href="Images/repairing_tyre1.png" media-type="image/png"/>
+    <item id="repairing_tyre_2.png" href="Images/repairing_tyre_2.png" media-type="image/png"/>
+    <item id="tyre_placard.png" href="Images/tyre_placard.png" media-type="image/png"/>
+    <item id="tyre_puncture_repair_kit.png" href="Images/tyre_puncture_repair_kit.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-1"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-2"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-3"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-4"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-5"/>
+    <itemref idref="DG22_FE0_TYRE_DG22EN-0FE0E3EUR-6"/>
+  </spine>
+</package>

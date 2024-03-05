@@ -1,0 +1,258 @@
+[
+    {
+        "label": "ELECTRONIC PARKING BRAKE SWITCH",
+        "contentSource": " The electronic parking brake can be applied or released by operating the parking brake switch. Pull the electronic parking brake switch. The indicator light on the switch will illuminate. With the power switch in the ON position, depress the brake pedal and push the switch. The indicator light on the switch will turn off. Before driving, check that the electronic parking brake indicator light  goes out."
+    },
+    {
+        "label": "STEERING WHEEL VOLUME CONTROL BUTTONS",
+        "contentSource": " Push the + or - side of the switch to adjust the volume."
+    },
+    {
+        "label": "BACK BUTTON",
+        "contentSource": " Press this button to go back to the previous menu/screen."
+    },
+    {
+        "label": "ARROW BUTTONS",
+        "contentSource": "  Use the arrows to navigate through the items in the vehicle information display."
+    },
+    {
+        "label": "SCROLL DIAL",
+        "contentSource": " Use the scroll dial to navigate through the items and change or select an item in the vehicle information display. The scroll dial allows up or down navigation and press to select or confirm a selection."
+    },
+    {
+        "label": "SEEK/TRACK BUTTONS",
+        "contentSource": " Press these buttons to go to the next/previous station/track."
+    },
+    {
+        "label": "SHORTCUT MENU BUTTON",
+        "contentSource": " Press this button to open a shortcut menu on the vehicle information display."
+    },
+    {
+        "label": "CANCEL SWITCH",
+        "contentSource": " Push the CANCEL switch to cancel the current preset speed. The indicator (green) in the vehicle information display goes out. To cancel speed limiter press the CANCEL switch, to turn off press the Speed Limiter switch. Push the CANCEL switch to the SET− direction. When the vehicle is stopped, the speed will be set at 30 km/h or 20 MPH. While driving, the speed limit will be set at the current speed. NOTE: If you push the CANCEL switch to the RES+direction and release it when there is no vehicle set speed, the vehicle will behave the same way as when the CANCEL switch is pushed to the SET- direction. Push and hold the CANCEL switch to the RES+ or SET- direction."
+    },
+    {
+        "label": "RES+ SWITCH",
+        "contentSource": " With ProPILOT/Intelligent Cruise Control/Cruise Control/Speed Limiter standby: Push and release the RES+ switch to resume the last preset speed. With ProPILOT/Intelligent Cruise Control/Cruise Control/Speed Limiter active: Push and release the RES+ switch to increase the set speed."
+    },
+    {
+        "label": "SET- SWITCH",
+        "contentSource": " With ProPILOT/Intelligent Cruise Control/Cruise Control/Speed Limiter standby: Push and release the SET- switch to set cruising speed. With ProPILOT/Intelligent Cruise Control/Cruise Control/Speed Limiter active: Push and release the SET- switch to decrease the set speed."
+    },
+    {
+        "label": "ProPILOT ASSIST SWITCH",
+        "contentSource": " Push the ProPILOT Assist switch to turn on the ProPILOT Assist system."
+    },
+    {
+        "label": "AUTOMATIC BRAKE HOLD SWITCH",
+        "contentSource": " Automatic brake hold maintains the braking force when the vehicle is stopped without the need for the brake pedal to be continually depressed. With the power switch in the ON position, push the Automatic brake hold switch. The indicator light on the Automatic brake hold switch illuminates and the system enters standby mode. To use the Automatic brake hold function, the following conditions need to be met: When the Automatic brake hold function goes into standby, the Automatic brake hold indicator light (white) illuminates in the vehicle information display. Push the Automatic brake hold switch to deactivate the Automatic brake hold function and turn off the Automatic brake hold indicator light."
+    },
+    {
+        "label": "SPEED LIMITER SWITCH",
+        "contentSource": " Push the Speed Limiter switch to turn on the Speed Limiter system."
+    },
+    {
+        "label": "DISTANCE CONTROL SWITCH",
+        "contentSource": " Push the DISTANCE switch to change the following distance to:"
+    },
+    {
+        "label": "VOICE RECOGNITION SWITCH",
+        "contentSource": " Push to use the Voice Recognition System. Push and hold to end the voice recognition session If your iPhone is connected to the in-vehicle system via Bluetooth\u00ae, Siri Eyes Free (where fitted) can be activated by pushing and holding this switch without having to activate Apple CarPlay (where fitted)."
+    },
+    {
+        "label": "PHONE BUTTON",
+        "contentSource": " Push to answer a received call, to end an active call or to read a received text message. Push and hold to reject an incoming call or to ignore a received text message. When no phone call is received or when there is no active phone call, pushing this switch will display the phone screen. Depending on models and conditions, pushing and holding this switch will start a voice recognition session for making a phone call."
+    },
+    {
+        "label": "STEERING WHEEL ADJUSTMENT LEVER",
+        "contentSource": " Move the steering wheel adjustment lever up, down, forward, or rearward to adjust the steering wheel to the desired position."
+    },
+    {
+        "label": "POWER BUTTON/VOLUME DIAL",
+        "contentSource": " Push to turn the power of the audio system on/off. Turn to adjust the volume."
+    },
+    {
+        "label": "SEEK/TRACK BUTTON",
+        "contentSource": " Push the button down to go to the next station/track. Push the button up to go to the previous station/track."
+    },
+    {
+        "label": "DAY/NIGHT BRIGHTNESS CONTROL BUTTON",
+        "contentSource": " Touch to switch between the day screen (bright) and the night screen (dark) and to adjust the level of screen brightness."
+    },
+    {
+        "label": "CAMERA BUTTON",
+        "contentSource": " With the power switch in the ON position, touch the CAMERA button to operate the Intelligent Around View Monitor or Rear View Monitor."
+    },
+    {
+        "label": "DRIVER SIDE TEMPERATURE CONTROL BUTTONS",
+        "contentSource": "  The temperature controls allow you to adjust the temperature of the outlet air on the driver\u2019s side. To increase the temperature, touch the red up arrow. To decrease the temperature, touch the blue down arrow"
+    },
+    {
+        "label": "DYNAMIC DRIVER ASSISTANCE SWITCH",
+        "contentSource": "  The dynamic driver assistance switch is used to temporarily turn on and off the Intelligent Lane Intervention system and Intelligent Blind Spot Intervention system. The Intelligent Lane Intervention system and Intelligent Blind Spot Intervention system must be turned on with the dynamic driver assistance switch every time the power switch is placed in the ON position."
+    },
+    {
+        "label": "PASSENGER SIDE TEMPERATURE CONTROL BUTTONS",
+        "contentSource": "  The temperature controls allow you to adjust the temperature of the outlet air on the passenger\u2019s side. To increase the temperature, touch the red up arrow. To decrease the temperature, touch the blue down arrow"
+    },
+    {
+        "label": "AIR RECIRCULATION BUTTON",
+        "contentSource": " Touch the air recirculation button  to recirculate interior air inside the vehicle. The indicator on the center display will come on. Air recirculation cannot be activated when the air conditioner is in front defogging mode. When the temperature outside exceeds 21\u00b0C (70\u00b0F), the air conditioning system may default to air recirculation mode automatically to reduce overall power consumption."
+    },
+    {
+        "label": "AUTO BUTTON",
+        "contentSource": " Touch to activate the automatic temperature control mode. This mode may be used all year round as the system automatically works to keep a constant temperature. Air flow distribution, air intake control, and fan speed are also controlled automatically."
+    },
+    {
+        "label": "FRONT DEFOGGER BUTTON",
+        "contentSource": " When the  front defogger button is touched, the air conditioner will automatically be turned on at outside temperatures above 2\u00b0C (36\u00b0F). The air recirculate mode automatically turns off, allowing outside air to be drawn into the passenger compartment to further improve the defogging performance."
+    },
+    {
+        "label": "REAR WINDOW AND OUTSIDE MIRROR DEFOGGER BUTTON",
+        "contentSource": "  Touch the rear window defogger switch  to defog the rear window glass and outside mirrors. The indicator light on the button comes on. Touch the button again to turn the defogger off. The rear window defogger automatically turns off after approximately 20 minutes."
+    },
+    {
+        "label": "FAN SPEED CONTROL",
+        "contentSource": " Press the fan speed control buttons  to manually control the fan speed. To increase the fan speed, touch the + side. To decrease the fan speed, touch the - side. Press the AUTO button to return to automatic control of the fan speed."
+    },
+    {
+        "label": "HAZARD WARNING SWITCH",
+        "contentSource": " Push the switch to warn other drivers when you must stop or park under emergency conditions. All turn signal indicator lights will flash."
+    },
+    {
+        "label": "DRIVE MODE SELECTOR",
+        "contentSource": " Touch the up and down arrows on the Drive Mode Selector to select the preferred driving mode:"
+    },
+    {
+        "label": "USB CONNECTION PORT",
+        "contentSource": " The vehicle is equipped with 2 USB connection ports (USB Type-C and USB Type-A). When connected, the invehicle audio system can play audio contents from the compatible device. Connect a compatible device to play media such as an iPod or a USB memory device."
+    },
+    {
+        "label": "REAR USB CHARGING PORT",
+        "contentSource": " There are 2 USB connection ports (USB Type-C and USB Type-A) located on the back of the centre console. These ports will only charge compatible devices and do not allow connection to the centre screen."
+    },
+    {
+        "label": "STEERING ASSIST SWITCH",
+        "contentSource": "  The Steering Assist switch is used to enable and disable the Steering Assist system selected using the settings in the vehicle information display. The Steering Assist system controls the steering system, when ProPILOT Assist is engaged, to help keep your vehicle near the center of the lane when driving."
+    },
+    {
+        "label": "REAR SEAT HEATING BUTTONS",
+        "contentSource": " The rear seats can be warmed by built-in heaters. With the power switch in the ON or READY to Drive position. Push the switch, as desired. The indicator lights in the switch will illuminate according to intensity: The indicator light(s) will remain on as long as the switch is on. When the seat is warmed or before you leave the vehicle, be sure to turn the seat heating off."
+    },
+    {
+        "label": "e-Pedal SWITCH",
+        "contentSource": " The position of the console box can be adjusted to your desired position. To slide the console box forward, push and hold the forward facing button. To slide backward, push and hold the rearward facing button. With the power switch in the READY to drive or ON position touch the e-Pedal switch to activate the e-Pedal Step system. The e-Pedal indicator is shown on the Vehicle Information Display: NOTE: To keep the same-Pedal Step system status between journeys, Activate [Mode Memory] in the [Driver Assistance] menu of the vehicle information display."
+    },
+    {
+        "label": "FLEXIBLE CENTRE STORAGE BUTTONS",
+        "contentSource": " To automatically open or close the flexible centre storage touch and hold the OPEN or CLOSE buttons."
+    },
+    {
+        "label": "power sliding console",
+        "contentSource": "  The position of the console box can be adjusted to your desired position. To slide the console box forward, push and hold the forward facing button. To slide backward, push and hold the rearward facing button."
+    },
+    {
+        "label": "WIRELESS CHARGER INDICATOR",
+        "contentSource": " The indicator shows the current status of the wireless charger by colour:"
+    },
+    {
+        "label": "ProPILOT PARK BUTTON",
+        "contentSource": " Touch the button to activate the ProPILOT Park system. ProPILOT Park is displayed on the navigation system screen."
+    },
+    {
+        "label": "SHIFT LEVER",
+        "contentSource": " After placing the power switch in the READY to drive position, fully depress the brake pedal, press the shift lever button and move the shift lever from the P (Park) position to any of the available positions: More regenerative brake is applied when the accelerator pedal is released in comparison to the D (Drive) position. Confirm that the vehicle is in the desired shift position by checking the shift indicator located on the shift lever or in the vehicle information display."
+    },
+    {
+        "label": "PARK MODE BUTTON",
+        "contentSource": " Press the park mode button to shift the vehicle to the P (Park) position."
+    },
+    {
+        "label": "ROOF SOS CALL BUTTON",
+        "contentSource": " The SOS call system, that uses the Road Accident Emergency Response System ERA-GLONASS, can be used to rapidly alert emergency services in case you are involved in a serious road accident or another emergency. You can also make an emergency call manually by pushing the <SOS> call button located on the overhead control panel: 1. Push the <SOS> button cover and open it. 2. Push the <SOS> button. Your emergency call is sent to the emergency call centre. At the same time, the vehicle information (location, vehicle speed and direction of travel) is also transferred.  3. When the call is connected, explain your situation to the emergency call centre. If you want to cancel the emergency call before the connection is made, push and hold the <SOS> button for a few seconds. If the air bag control unit detects a frontal collision, side collision, or vehicle rollover, the system automatically sends an emergency call to the emergency call centre. At the same time, the vehicle information (location, vehicle speed and direction of travel) is also transferred. Once your emergency call is received by the emergency call centre, the operator will attempt to speak with the vehicle occupant(s)."
+    },
+    {
+        "label": "SUNROOF BUTTON",
+        "contentSource": " When the sunroof switch is pushed rearward to the OPEN position, the sunroof opens to the comfort mode position. NOTE:  If the sunshade is closed, the sunshade will open halfway first. When the switch is pushed again, the sunroof opens fully. When the sunroof switch is pushed forward to the CLOSE position, the sunroof will automatically close. To stop the sunroof during opening/closing, push the sunroof switch in either direction. To tilt the sunroof up, depress the sunroof switch upwards. To tilt the sunroof down, depress the switch again or push rearwards to the CLOSE position."
+    },
+    {
+        "label": "HUD SWITCH",
+        "contentSource": " To turn the HUD on, push the HUD switch. To turn the HUD off, push the switch again. If the HUD is turned off, it will remain off even if the vehicle is restarted."
+    },
+    {
+        "label": "SUNSHADE SWITCH",
+        "contentSource": " When the sunshade switch is pushed rearward to the OPEN position, the sunshade opens. When the sunshade switch is pushed forward to the CLOSE position, the sunshade will automatically close. To stop the sunshade during opening/closing, push the sunshade switch in either direction. NOTE:  If the sunshade is closed, operating the sunroof causes the sunshade to open along with the sunroof."
+    },
+    {
+        "label": "INTERIOR LIGHT SWITCH",
+        "contentSource": " The interior light can be turned on regardless of door position by touching the light button The light will go off after a period of time unless the power switch is placed in the ON position when any door is opened."
+    },
+    {
+        "label": "INTERIOR LIGHT DOOR POSITION SWITCH",
+        "contentSource": " The interior lights are set to operate when the doors are opened. To turn off the interior lights when a door is open, touch the switch, the interior lights will not illuminate, regardless of door position. The lights will go off when the power switch is placed in the ON position, or the driver\u2019s door is closed and locked."
+    },
+    {
+        "label": "INTERIOR LIGHT INTENSITY SWITCH",
+        "contentSource": " Touch to adjust the brightness of the map lights in 3 levels."
+    },
+    {
+        "label": "MAP LIGHT SWITCHES",
+        "contentSource": "  Touch the light to turn the map lights on. To turn them off, touch the lights again."
+    },
+    {
+        "label": "INTELLIGENT INTERIOR REAR VIEW MIRROR",
+        "contentSource": "  When the Intelligent Rear View Mirror is in the camera view mode 1  MENU button: Opens the settings menu 2 Left: Navigate the menu/Decrease setting 3 Right: Navigate the menu/Increase setting 4 Enter: Confirm selection A Indicator: Intelligent Rear View Mirror mode is selected"
+    },
+    {
+        "label": "AUTOMATIC DRIVE POSITIONER",
+        "contentSource": " Two memorised positions for the driver\u2019s seat, steering column and outside mirrors can be stored. To store a position:  1.  With the power in the ON position and the shift lever in the Park position, adjust the driver\u2019s seat, steering column and outside mirrors to the desired positions. 2.  Push the SET switch and, within 5 seconds, push and hold the memory switch 1 or 2. 3.  A chime will sound noting the position has been stored."
+    },
+    {
+        "label": "DOOR MIRROR ADJUSTMENT",
+        "contentSource": " The outside rear-view mirrors fold when the outside rear-view mirror folding button is pushed. To unfold, push the button again. The outside mirrors can be adjusted by pushing the left  or right  mirror switch on the side you wish to adjust. Once a side is selected, the adjustment knob  can be used to adjust the position."
+    },
+    {
+        "label": "POWER DOOR LOCK SWITCH",
+        "contentSource": " The power door lock switch, located on the door trim, can be used to lock or unlock all doors simultaneously from inside the vehicle. The door lock indicator light on the roof console comes on when the doors are locked."
+    },
+    {
+        "label": "WINDOW SWITCH",
+        "contentSource": " To open or close the window, push down or pull up the switch and hold it. The automatic function enables a window to fully open or close without holding the switch down or up. To fully open the window, push the power window switch down to the second detent and release the switch. To fully close the window, pull the power window switch up to the second detent and release the switch. The switch does not have to be held during window operation. To stop the window open/close operation during the automatic function, push down or pull up the switch in opposite direction."
+    },
+    {
+        "label": "IMMEDIATE CHARGE SWITCH",
+        "contentSource": "  With the power switch in the OFF position and the normal charge connector connected to the charge port. Push the immediate charge switch to start charging the battery."
+    },
+    {
+        "label": "REAR PASSENGER WINDOW LOCK SWITCH",
+        "contentSource": " When the lock switch is pushed in, only the driver\u2019s window and front passenger\u2019s window can be operated. To cancel the rear passengers\u2019 windows lock, push the lock switch again."
+    },
+    {
+        "label": "SEAT ADJUSTMENT SWITCHES",
+        "contentSource": "  Move the adjustment switch forward or backwards until the desired position is achieved.  Tilt the adjustment switch forward or backwards until the desired incline is achieved.   Tilt the adjustment switch forward or backwards until the desired angle is achieved. Push down or pull up the adjustment switch until the desired height is achieved.  The lumbar support feature provides lower back support to the driver. Push the adjusting switch to adjust the seat lumbar area until the desired position is achieved."
+    },
+    {
+        "label": "POWER LIFTGATE CLOSE SWITCH",
+        "contentSource": " The tailgate can be closed by pressing the liftgate close switch on the liftgate. A chime sounds and the liftgate starts closing."
+    },
+    {
+        "label": "POWER LIFTGATE LOCK SWITCH",
+        "contentSource": " Pushing the power liftgate lock switch on the lower part of the liftgate will automatically close the liftgate and lock all the doors and liftgate. A chime sounds when the liftgate starts closing."
+    },
+    {
+        "label": "liftgate OPEN/CLOSE SWITCH",
+        "contentSource": "  The tailgate can be opened/closed by pressing the tailgate OPEN/CLOSE switch on the instrument panel."
+    },
+    {
+        "label": "PUSH BUTTON POWER SWITCH",
+        "contentSource": " When the power switch is pushed without depressing the brake pedal, the power switch position will change as follows: When the power switch is pushed with the brake pedal depressed, the power switch position will change to the READY to Drive position. The power switch will automatically return to the LOCK position when any door is either opened or closed with the switch in the OFF position. To shut off the electric vehicle system in an emergency situation while driving or when the Intelligent Key battery is discharged, perform the following procedure:"
+    },
+    {
+        "label": "HEADLIGHT AIMING CONTROL",
+        "contentSource": " Depending on the number of occupants in the vehicle and the load it is carrying, the headlight axis may be higher than desired. If the vehicle is travelling on a hilly road, the headlights may directly hit the Rear-view mirror of the vehicle ahead or the windscreen of an oncoming vehicle. The light axis can be lowered using the switch located on the driver\u2019s side of the instrument panel, next to the steering wheel. The higher the number designated on the switch, the lower the axis. When travelling with no heavy load on a flat road, select position 0. NISSAN recommends consulting local regulations on the use of lights."
+    },
+    {
+        "label": "INSTRUMENT PANEL",
+        "contentSource": " With the power switch is in the ON position use the instrument brightness control buttons to control the intensity of the instrument panel illumination:"
+    }
+]

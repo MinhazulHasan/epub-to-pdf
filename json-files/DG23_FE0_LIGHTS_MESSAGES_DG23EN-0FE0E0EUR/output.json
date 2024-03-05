@@ -1,0 +1,450 @@
+[
+    {
+        "label": "Brake warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. May indicate the hydraulic brake system is not functioning properly. Immediately stop the vehicle in a safe location, and contact a NISSAN certified electric vehicle dealer. A buzzer sounds if a malfunction occurs in the brake system power supply. If the light illuminates while the power switch is in the READY to drive position with the parking brake not applied, stop the vehicle and check the brake fluid level following the directions in the Maintenance and do-it- yourself chapter of the Owner\u2019s Manual: Contact a NISSAN certified electric vehicle dealer for support. When the parking brake is released, and the brake fluid level is sufficient, if both the brake warning light and the Anti-lock Braking System (ABS) warning light illuminate, it may indicate the ABS is not functioning properly. Have the brake system checked, and if necessary repaired. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Intelligent Emergency Braking System OFF warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. Illuminates when the Intelligent Emergency Braking with Pedestrian Detection system is set to OFF using the vehicle information display. If the light illuminates or flashes when the Intelligent Emergency Braking with Pedestrian Detection system is ON, it may indicate that the system is unavailable. Disabling the Electronic Stability Programme (ESP) system using the vehicle information display causes the Intelligent Emergency Braking with Pedestrian Detection system to become unavailable. This is not a malfunction."
+    },
+    {
+        "label": "[Press brake pedal to prevent rolling] warning",
+        "contentSource": " Appears when:"
+    },
+    {
+        "label": "[Press brake to operate switch] indicator",
+        "contentSource": "  Appears if the automatic brake hold switch is pushed without depressing the brake pedal while the automatic brake hold function is activated. Depress the brake pedal and push the switch to deactivate the automatic brake hold function."
+    },
+    {
+        "label": "[Caution Steep slope] indicator",
+        "contentSource": " Appears and a chime sounds when the automatic brake hold function is activated while the vehicle is on a steep hill. Apply the footbrake to stop the vehicle moving."
+    },
+    {
+        "label": "[Steep Slope Apply footbrake] indicator",
+        "contentSource": " Appears and a chime sounds if the [Caution Steep slope] warning has appeared for over 3 minutes. The parking brake will automatically be applied and the brake force of the automatic brake hold will be released, possibly causing the vehicle to move or roll away unexpectedly. Apply the footbrake to stop the vehicle moving."
+    },
+    {
+        "label": "[Neutral Hold Mode guidance] indicator",
+        "contentSource": " Appears when the power switch is placed in the OFF position while the shift position is in the N (Neutral) position (Neutral hold mode is available)."
+    },
+    {
+        "label": "[Neutral Hold Mode activated] indicator",
+        "contentSource": " Appears when the Neutral hold mode is activated. To exit the Neutral hold mode, place the vehicle in other than N (Neutral) position."
+    },
+    {
+        "label": "[Neutral Hold Mode was not activated] indicator",
+        "contentSource": " Appears when the Neutral hold mode is unavailable. To activate the Neutral hold mode, wait for a while without shifting and then perform the operations again."
+    },
+    {
+        "label": "Battery Cooling Assist ON indicator",
+        "contentSource": " Appears when [Battery Cooling Assist] is turned on using the settings menu of the vehicle information display."
+    },
+    {
+        "label": "[Tyre Pressure Low Check Cold Tyre] warning",
+        "contentSource": " Appears if the tyre pressure becomes higher than the target pressure during a low tyre pressure condition. Even if the tyre pressure is above the preset target pressure, the yellow colour in the tyre pressure warning means that the tyre pressure is actually too low. Tyre pressure increases during driving, check the tyre pressure when the tyre is cold."
+    },
+    {
+        "label": "STEERING ASSIST GUIDANCE  (Where fitted)",
+        "contentSource": " This message appears when the Steering Assist system is turned on or off."
+    },
+    {
+        "label": "Brake system warning light",
+        "contentSource": " The warning light functions for both the cooperative regenerative brake and the electronically driven intelligent brake systems. Illuminates briefly when the power switch is placed in the ON or READY to drive position. If the light illuminates at any other time, it may indicate that the cooperative regenerative brake and/or the electronically driven intelligent brake systems are not functioning properly. Contact a NISSAN certified electric vehicle dealer for support. If the brake warning light (red) also illuminates, stop the vehicle immediately and contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "STEERING ASSIST GUIDANCE (Where fitted)",
+        "contentSource": " This message appears when the Steering Assist system is turned on or off."
+    },
+    {
+        "label": "[EV SYSTEM COOLING TEMPORARY POWER REDUCTION] WARNING",
+        "contentSource": " This warning appears when the temperature of the EV system becomes high because of the heat of the high voltage system. If this warning appears, vehicle speed will not increase due to the power limitation. When th EV system cools down, this warning will turn off."
+    },
+    {
+        "label": "Electric Power Steering warning light",
+        "contentSource": " Illuminates when the power switch is placed in the ON position, turns off when the power switch is placed in the READY to drive position. If the light illuminates at any other time, it may indicate that the Electric Power Steering system is not functioning properly. Contact a NISSAN certified electric vehicle dealer for support. If an Electric Power Steering malfunction occurs, the power assist function is limited or turned off. The steering operates normally, but requires greater force than usual."
+    },
+    {
+        "label": "Low battery charge warning light",
+        "contentSource": " Illuminates when the available Li-ion battery charge is getting low. Charge as soon as possible, preferably before the Li-ion battery available charge gauge reaches the bottom line."
+    },
+    {
+        "label": "Low tyre pressure warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. Illuminates to warn of low tyre pressure or indicate that the TPMS is not functioning properly. If the vehicle is being driven with low tyre pressure, the warning light illuminates and [Low Tyre Pressure] appears in the vehicle information display. Safely stop and adjust the tyre pressure to the recommended pressures shown on the tyre placard. The warning light does not automatically turn off when the tyre pressure is adjusted. After the tyre is inflated to the recommended pressure, reset the tyre pressures and then drive the vehicle at speeds above 25 km/h (16 MPH). If the warning light still continues to illuminate after the resetting operation, it may indicate that the TPMS is not functioning properly. Contact a NISSAN certified electric vehicle dealer for support. The warning light will flash for approximately 1 minute and remain on when the power switch is placed in the ON position. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Master warning light",
+        "contentSource": "  Illuminates if a warning message appears in the vehicle information display when the power switch is in the ON position."
+    },
+    {
+        "label": "Rear Automatic Braking (RAB) system OFF warning light",
+        "contentSource": " Illuminates when the power switch is placed in the ON position, turns off when the power switch is placed in the READY to drive position. Illuminates when the RAB system is turned off using the vehicle information display. If illuminated when the RAB system is on, it may indicate that the system is unavailable."
+    },
+    {
+        "label": "Approaching Vehicle Sound for Pedestrians (VSP) OFF indicator light",
+        "contentSource": " If the indicator illuminates while the VSP system is ON, it may indicate the VSP is not functioning properly. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Slip indicator light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. Blinks when the Electronic Stability Programme (ESP) system or the traction control system operates, indicating road surface may be slippery. Illuminates while the ESP system is on, to alert that the ESP system\u2019s fail-safe mode is operating, for example the ESP system may not be functioning properly. Contact a NISSAN certified electric vehicle dealer for support. If a malfunction occurs in the system, the ESP system function will be cancelled but the vehicle is still driveable."
+    },
+    {
+        "label": "Electronic Stability Programme (ESP) OFF indicator light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. Illuminates when the ESP is turned OFF, indicating the ESP and traction control system are not operating. Turn the ESP on using the vehicle information display, or restart the electric vehicle system and the system will operate normally. If the light stays on or comes on along with the indicator light while you are driving, have the ESP system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Electric Shift Control system warning light",
+        "contentSource": " Illuminates when a malfunction occurs in the Electric Shift Control system. When the master warning light illuminates, the chime sounds and the following message is displayed in the vehicle information display: [Apply parking brake]. When the power switch is placed in the OFF position, the chime sounds continuously. Ensure the parking brake is applied. If the power switch cannot be placed in the OFF position, apply the parking brake and then place it in the OFF position. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Adaptive LED headlight indicator light",
+        "contentSource": " Illuminates when the adaptive LED headlight system is turned on and operational."
+    },
+    {
+        "label": "Automatic brake hold indicator light",
+        "contentSource": " The automatic brake hold indicator light (white) illuminates when the automatic brake hold system is on standby."
+    },
+    {
+        "label": "Automatic brake hold indicator light",
+        "contentSource": " The automatic brake hold indicator light (white) illuminates when the automatic brake hold system is operating."
+    },
+    {
+        "label": "Exterior light indicator light",
+        "contentSource": " Illuminates when the headlight switch is turned to the ,  or  position and the front clearance lights, rear combination lights, number plate lights and/or headlights are on."
+    },
+    {
+        "label": "Front fog light indicator light",
+        "contentSource": " Illuminates when the front fog lights are on."
+    },
+    {
+        "label": "High Beam Assist indicator light",
+        "contentSource": " Illuminates when the high beam assist system is turned on is operational."
+    },
+    {
+        "label": "High beam indicator light",
+        "contentSource": " Illuminates when the headlight high beam is on and goes out when the low beam is selected."
+    },
+    {
+        "label": "Hill Start Assist indicator light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. This light illuminates when the Hill Start Assist system is operating."
+    },
+    {
+        "label": "Plug in indicator light",
+        "contentSource": " Illuminates while the charge connector is connected to the vehicle. Blinks during charging. This indicator light will not illuminate if the vehicle is in the sleep mode. NOTE: If the charge connector is connected to the vehicle, the power switch cannot be placed in the READY to drive position."
+    },
+    {
+        "label": "Power limitation indicator light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. Illuminates when power provided to the traction motor is reduced due to any of the following: If the light illuminates in a situation other than those described above, or if it does not turn off, there may be a system malfunction. Contact a NISSAN certified electric vehicle dealer for support. Warning:  Power limitation mode can result in reduced power and vehicle speed. The reduced speed may be lower than other traffic, which could increase the chance of a collision. Be especially careful when driving. If the vehicle cannot maintain a safe driving speed, pull to the side of the road in a safe area. Charge the Li-ion battery if the charge is low or allow the Li-ion battery to cool."
+    },
+    {
+        "label": "Electronic Parking Brake warning light",
+        "contentSource": " The warning light indicates that the electronic parking brake is applied. Illuminates when the power switch is placed in the ON position. Turns off when the power switch is placed in the READY TO DRIVE position and the parking brake is released. Ensure the warning light has turned off before driving. If the electronic parking brake warning light illuminates or flashes while the brake system warning light is illuminated, it may indicate that the Electronic Parking Brake system is not functioning properly. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "READY to drive indicator light",
+        "contentSource": " Illuminates when the Electric Vehicle (EV) system is powered and the vehicle may be driven. The READY to drive indicator light will turn off in the following conditions."
+    },
+    {
+        "label": "Rear fog light indicator light",
+        "contentSource": " Illuminates when the rear fog light is on."
+    },
+    {
+        "label": "Turn Signal/hazard indicator light",
+        "contentSource": " Flashes when the turn signal switch lever or hazard switch is turned on."
+    },
+    {
+        "label": "[Push Brake and Start Button to Drive] indicator",
+        "contentSource": "  Appears while the vehicle is in the P (Park) position. This indicator means that the electric vehicle system will start when the power switch is pushed with the brake pedal depressed."
+    },
+    {
+        "label": "[No key detected] warning",
+        "contentSource": "   Appears when:"
+    },
+    {
+        "label": "[No Key] Hold power switch indicator",
+        "contentSource": "   Appears when you try to turn off the electric vehicle system with the door closed and the Intelligent Key left outside the vehicle and the electric vehicle system is running. Push and hold the power switch to turn off the electric vehicle system."
+    },
+    {
+        "label": "[Key Battery Low] warning",
+        "contentSource": "  Appears when the Intelligent Key battery is running out of power. If this indicator appears, replace the battery with a new one."
+    },
+    {
+        "label": "[Hold Key Near Start Button] indicator",
+        "contentSource": "  Appears when the Intelligent Key battery is running out of power and when the Intelligent Key system and vehicle are not communicating normally. If this indicator appears, touch the power switch with the Intelligent Key while depressing the brake pedal."
+    },
+    {
+        "label": "[Key System Fault See Owner\u2019s Manual] warning",
+        "contentSource": "  Appears if there is a malfunction in the Intelligent Key system. If this warning appears while the traction motor is stopped, the power switch cannot be switched to the READY to drive position. If this warning appears while the power switch is in the READY to drive position, the vehicle can be driven. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Shift to Park] warning",
+        "contentSource": "  Appears when the driver\u2019s door is opened while the shift lever is in any position other than P (Park). If this warning appears, push the park button on the shift lever to engage the P (Park) position. An warning chime will sound."
+    },
+    {
+        "label": "Electric Vehicle system warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. This light illuminates if the Emergency shut off system is activated, or a malfunction in any of the following systems occurs: Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Release Parking Brake] warning",
+        "contentSource": "  Appears when the accelerator pedal is depressed when the electronic parking brake automatic release function cannot be used. Release the electronic parking brake manually."
+    },
+    {
+        "label": "[Door/liftgate open] warning",
+        "contentSource": "  Appears if any of the doors and/or the liftgate are open or not closed securely. The vehicle icon indicates which door or if the liftgate is open."
+    },
+    {
+        "label": "Occupant status display",
+        "contentSource": "  Shown when any vehicle occupant\u2019s seat belt is not fastened. The display will remain until occupants have their seat belts securely fastened, or until acknowledged by the driver."
+    },
+    {
+        "label": "[Low Tyre Pressure] warning",
+        "contentSource": "  Appears when low tyre pressure is detected. The warning appears each time the power switch is placed in the ON position as long as the low tyre pressure warning light remains illuminated. If this warning appears, stop the vehicle and adjust the pressure to the recommended COLD tyre pressure shown on the tyre placard."
+    },
+    {
+        "label": "[Check position of gear lever] warning",
+        "contentSource": "  Appears if the system cannot detect the shift position. Ensure the shift lever is placed in a proper position. Have the system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Apply parking brake] warning",
+        "contentSource": "  Appears if a malfunction occurs in the electric shift control system. Contact a NISSAN certified electric vehicle dealer for support. Park the vehicle in a safe location and make sure that the parking brake is applied. If the parking brake is not applied, the power switch may not be turned off. The message on the vehicle information display turns off and the chime stops. Have the system checked by a NISSAN certified electric vehicle dealer."
+    },
+    {
+        "label": "[T/M system malfunction] warning",
+        "contentSource": " Appears if there is a malfunction in the electric shift control system. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Shift position indicator",
+        "contentSource": "  This indicator shows the shift position."
+    },
+    {
+        "label": "Drive Mode Selector indicator",
+        "contentSource": "  Appears when a driving mode is selected using the Drive Mode Selector."
+    },
+    {
+        "label": "e-Pedal INDICATOR",
+        "contentSource": " Shows the status of the e-Pedal system by colour:"
+    },
+    {
+        "label": "Hands OFF warning light",
+        "contentSource": " Illuminates when the Steering Assist is activated and the steering wheel is not operated or the driver takes their hands off the steering wheel. If the driver does not operate the steering wheel after the warning light has illuminated, an audible alert sounds and a warning flashes in the vehicle information display, followed by a quick brake application to request the driver to take control of the vehicle again. If the driver remains unresponsive, the vehicle will automatically turn on the hazard lights and slow to a complete stop."
+    },
+    {
+        "label": "[e-Pedal SYSTEM FAILURE!] WARNING",
+        "contentSource": " Appears when the e-Pedal Step system is malfunctioning. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Shipping Mode On Push Storage Fuse] warning",
+        "contentSource": "  Appears if the extended storage switch is not pushed in. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Power will turn off to save the battery] warning",
+        "contentSource": "  Appears after the power switch is in the ON position for a certain period of time."
+    },
+    {
+        "label": "[Power turned off to save the battery] warning",
+        "contentSource": "  Appears after the power switch is automatically turned OFF to save the battery."
+    },
+    {
+        "label": "[Reminder Turn OFF Headlights] warning",
+        "contentSource": "  Appears when the driver side door is opened with the headlight switch left ON and the power switch is placed in the OFF position. Place the headlight switch in the AUTO position."
+    },
+    {
+        "label": "[Headlight system fault See Owner\u2019s Manual] warning",
+        "contentSource": "  Appears if the LED headlights are malfunctioning. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Time for a break?] indicator",
+        "contentSource": "  Appears when the set Timer Alert activates. You can set the time for up to 6 hours."
+    },
+    {
+        "label": "[Chassis control system fault See Owner\u2019s Manual] warning",
+        "contentSource": "  Appears if the chassis control system detects a malfunction. Have the system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Battery too Low Please charge now] warning",
+        "contentSource": " Appears when the Li-ion battery charge is getting low. The low battery charge warning light and the master warning light also illuminate. Charge the Li-ion battery as soon as possible."
+    },
+    {
+        "label": "[EV System hot Power Reduced] warning",
+        "contentSource": " Appears when the temperature of the traction motor, Li-ion battery, or other component of the EV system becomes too high. If this warning appears, vehicle speed will not increase due to power limitation even if the accelerator pedal is depressed. The power limitation indicator illuminates."
+    },
+    {
+        "label": "Master warning light",
+        "contentSource": " Illuminates if a warning message appears in the vehicle information display."
+    },
+    {
+        "label": "[EV System cold Power Reduced] warning",
+        "contentSource": " Appears when the temperature of the Li-ion battery becomes too low. If this warning appears, vehicle speed will not increase due to power limitation even if the accelerator pedal is depressed. The power limitation indicator illuminates."
+    },
+    {
+        "label": "[Battery charge is low Power reduced] warning",
+        "contentSource": " Appears when the remaining capacity of Li-ion battery becomes extremely low. If this warning appears, vehicle speed will not increase due to the power limitation even if the accelerator pedal is depressed. The power limitation indicator illuminates. Stop the vehicle in a safe location and contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Power reduced] warning",
+        "contentSource": " Appears due to reasons other than the hot, cold or low charge power reduced warnings. If this warning appears, vehicle speed will not increase due to the power limitation even if the accelerator pedal is depressed. The power limitation indicator illuminates."
+    },
+    {
+        "label": "[Can\u2019t start Charging plug Connected] warning",
+        "contentSource": " Appears while the charge connector is connected to the vehicle and the power switch is pushed to the READY to drive position. Remove the charge connector."
+    },
+    {
+        "label": "[EV system off Stop safely Evacuate to safe area outside car] warning",
+        "contentSource": " Appears if the Li-ion battery is malfunctioning and a danger of the Li-ion battery thermal runaway is detected while driving. Pull off the road to a safe location immediately, leave the vehicle and contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[EV system off Evacuate to safe area outside car] warning",
+        "contentSource": " Appears if the Li-ion battery is malfunctioning and a danger of the Li-ion battery thermal runaway is detected while stopped. Leave the vehicle and contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[EV System Malfunction Power Reduced] warning",
+        "contentSource": " Appears if there is a malfunction in the electric vehicle system and the power provided to the traction motor is reduced. The message will vary depending on the condition of the system malfunction. Follow displayed instructions."
+    },
+    {
+        "label": "[Battery Management Fault Service Now] warning",
+        "contentSource": " Appears when there is a malfunction with the 12-volt battery system. If this warning continues to appear, have the system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Lane Departure Warning (LDW)/INTELLIGENT LANE INTERVENTION/EMERGENCY LANE ASSIST (ELA) INDICATOR",
+        "contentSource": " Appears when the following systems (where fitted) are engaged."
+    },
+    {
+        "label": "Emergency Lane Assist (ELA) OFF INDICATOR",
+        "contentSource": " Appears when the Emergency Lane Assist (ELA) system is turned off."
+    },
+    {
+        "label": "Seat belt warning light",
+        "contentSource": " Illuminates whenever the power switch is in the ON position and any occupant\u2019s seat belt is not fastened. When vehicle speed exceeds 15 km/h (10 MPH) the warning light flashes and a chime will sound for at least 95 seconds or until all occupant\u2019s seat belts are securely fastened. The system will reset when either rear door is opened while the vehicle is stationary."
+    },
+    {
+        "label": "Blind Spot Warning (BSW)/INTELLIGENT BLIND SPOT INTERVENTION INDICATOR",
+        "contentSource": " Appears when the Blind Spot Warning (BSW) and/or Intelligent Blind Spot Intervention systems are engaged."
+    },
+    {
+        "label": "Vehicle ahead detection indicator",
+        "contentSource": " This indicator shows the status of the following systems:"
+    },
+    {
+        "label": "Cruise indicator",
+        "contentSource": "  Models without Intelligent Cruise Control (ICC) system: Shows the cruise control system status. The status is shown by colour. Models with Intelligent Cruise Control (ICC) system: Shows the conventional (fixed speed) cruise control mode status.  The status is shown by colour."
+    },
+    {
+        "label": "Speed limiter indicator",
+        "contentSource": " Shows the speed limiter system status. The status is shown by the colour."
+    },
+    {
+        "label": "Intelligent Cruise Control (ICC) SYSTEM STATUS INDICATOR",
+        "contentSource": " Shows the status of the Intelligent Cruise Control (ICC) system (without ProPILOT system). The status is shown by the colour and shape."
+    },
+    {
+        "label": "Speed control status/set distance/lane marker indicator",
+        "contentSource": " Shows the status of the Intelligent Cruise Control (ICC) system (ProPILOT system) and the detection of the lane markers. The status is shown by the colour and shape."
+    },
+    {
+        "label": "Intelligent Lane Intervention ON/Intelligent Blind Spot Intervention ON/ProPILOT system status indicator",
+        "contentSource": " Appears when the following systems (where fitted) are turned on:"
+    },
+    {
+        "label": "Steering Assist indicator",
+        "contentSource": " Appears when the Steering Assist system is engaged."
+    },
+    {
+        "label": "Hands on detection warning",
+        "contentSource": " Appears when the Steering Assist system is engaged and the following condition(s) occur: Hold on the steering wheel immediately. When steering operation is detected, the warning turns off and the Steering Assist function is automatically restored."
+    },
+    {
+        "label": "Hands on detection warning",
+        "contentSource": " Appears when the Steering Assist system is engaged and the following condition(s) occur: Hold on the steering wheel immediately. When steering operation is detected, the warning turns off and the Steering Assist function is automatically restored."
+    },
+    {
+        "label": "Supplemental air bag warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. If any of the following conditions occur, the front air bag, side air bag, curtain air bag and/or pretensioner systems need servicing. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "Hands on detection warning",
+        "contentSource": " Appears when the Steering Assist system is engaged and the following condition(s) occur: Hold on the steering wheel immediately. When steering operation is detected, the warning turns off and the Steering Assist function is automatically restored."
+    },
+    {
+        "label": "Rear Automatic Braking (RAB) SYSTEM WARNING INDICATOR",
+        "contentSource": " Appears to indicate the status of the Rear Automatic Braking (RAB) system."
+    },
+    {
+        "label": "Intelligent Emergency Braking emergency warning indicator",
+        "contentSource": " Appears along with an audible warning, when the Intelligent Emergency Braking with Pedestrian Detection system detects the possibility of a forward collision."
+    },
+    {
+        "label": "[System fault See Owner\u2019s Manual] warning",
+        "contentSource": " Appears when the following systems (where fitted) malfunction."
+    },
+    {
+        "label": "[Unavailable Camera Temperature High] warning",
+        "contentSource": " Appears if the interior temperature of the vehicle has reached such a high temperature that the sensor for the following systems (where fitted) can no longer function reliably. Once the interior temperature has reached normal levels, the warning should disappear. If the warning continues to display, have the system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Currently Not Available] warning",
+        "contentSource": " Appears when the following systems (where fitted) become unavailable because the Electronic Stability Programme (ESP) system is turned off."
+    },
+    {
+        "label": "[Temporarily Disabled Front Radar Blocked] warning",
+        "contentSource": " If the front radar sensor area on the front of the vehicle is covered with dirt or obstructed, making it impossible to detect a vehicle ahead, the following system (where fitted) is automatically turned off. If the warning message appears, park the vehicle in a safe location and turn the electric vehicle system off. Check to see if the sensor area is blocked and clear if needed. Restart the electric vehicle system. If the warning message continues to appear, have the system checked. Contact a NISSAN certified electric vehicle dealer for support."
+    },
+    {
+        "label": "[Not available Side radar obstructed] warning",
+        "contentSource": " Appears when the following systems (where fitted) become unavailable because a radar blockage is detected."
+    },
+    {
+        "label": "[Unavailable Slippery Road] warning",
+        "contentSource": " Appears when the following systems (where fitted) become unavailable because the road is slippery."
+    },
+    {
+        "label": "[Not Available, Seat Belt Not Fastened] indicator",
+        "contentSource": " Appears when the ProPILOT system is engaged and the driver\u2019s seat belt is not fastened, the ProPILOT system is automatically cancelled. The ProPILOT system cannot be used when the driver\u2019s seat belt is not fastened."
+    },
+    {
+        "label": "Anti-lock Braking System (ABS) warning light",
+        "contentSource": " Illuminates briefly when the power switch is placed in the ON or READY to drive position. If the ABS warning light illuminates while driving, it may indicate the ABS is not functioning properly. Contact a NISSAN certified electric vehicle dealer for support. If an ABS malfunction occurs, the anti-lock function is turned off. The brake system operates normally, but without anti-lock assistance."
+    },
+    {
+        "label": "[Not available Visibility is impaired] indicator",
+        "contentSource": " This message may appear when the Steering Assist system is engaged. Under the following conditions, the Steering Assist system is automatically cancelled: If you want to use the Steering Assist system again, cancel the ProPILOT system and activate it again when lane markers are clearly visible."
+    },
+    {
+        "label": "[Unavailable Low Visibility] indicator",
+        "contentSource": " Appears when the Steering Assist system and/or Emergency Lane Assist (ELA) is engaged but unavailable. Under the following conditions, the Steering Assist system and/or Emergency Lane Assist (ELA) is automatically cancelled:"
+    },
+    {
+        "label": "[Steering Assist Not Available Cannot Detect Lane] indicator",
+        "contentSource": " Appear when the Steering Assist system is engaged but unavailable. The Steering Assist system is automatically cancelled when the lane markers in the travelling lane cannot be correctly detected. If you want to use the Steering Assist system again, cancel the ProPILOT system and set it again when lane markers are clearly visible."
+    },
+    {
+        "label": "[Not Available, Parking Brake On] indicator",
+        "contentSource": " This message may appear when the ProPILOT system is engaged. The ProPILOT system is automatically cancelled when the electronic parking brake is applied."
+    },
+    {
+        "label": "[Press brake pedal] warning",
+        "contentSource": " Appears when the ProPILOT system has stopped the vehicle and the driver\u2019s door is opened but the electronic parking brake was not activated. Step on the brake pedal immediately."
+    },
+    {
+        "label": "[Unavailable Select Driving Aids in Settings] indicator",
+        "contentSource": " Appears if neither the Intelligent Lane Intervention system nor the Intelligent Blind Spot Intervention system is enabled in the settings menu."
+    },
+    {
+        "label": "[Only Available with Cruise Control ON] indicator",
+        "contentSource": " Appears when the Steering Assist switch is pushed while the Intelligent Cruise Control (ICC) system is not turned on."
+    },
+    {
+        "label": "Parking sensor (sonar) INDICATOR",
+        "contentSource": "  Appears to indicate the status of the parking sensor (sonar) system."
+    },
+    {
+        "label": "[Parking sensor system fault] warning",
+        "contentSource": " Appears when there is a malfunction with the parking sensor (sonar) system."
+    },
+    {
+        "label": "[Take a break?] indicator",
+        "contentSource": " Appears when the Intelligent Driver Alertness system detect that the driver attention is decreasing."
+    },
+    {
+        "label": "Charge warning light",
+        "contentSource": " Illuminates when the power switch is placed in the ON. Turns off when the power switch is placed in the READY to drive position. When this warning light illuminates, a chime sounds and the following warning lights also illuminate: The following messages also appear on the vehicle information display: When these messages appear, immediately stop the vehicle in a safe location, apply the parking brake and place the vehicle in the P (Park) position. Contact a NISSAN certified electric vehicle dealer for support."
+    }
+]
